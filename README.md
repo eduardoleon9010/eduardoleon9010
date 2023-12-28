@@ -1,4 +1,4 @@
-<!--
+
 Hello, I'm Eduardo Leon!
 Data Analyst and Scientist
 Welcome to my GitHub profile! I'm passionate about data analysis and science. My focus revolves around transforming data into actionable insights to drive strategic decisions.
@@ -43,8 +43,8 @@ ________________________________________________________________________________
 
 
 ### 📫 Cómo contactarme
-Puedes encontrarme en mi [Sitio Web](https://www.nexatech.org) o 
-conectarte conmigo a través de [LinkedIn](https://www.linkedin.com/in/mbaeduleon/).
+Puedes encontrarme en mi Sitio Web (https://www.nexatech.org) o 
+conectarte conmigo a través de LinkedIn (https://www.linkedin.com/in/mbaeduleon/).
 
 ### ⚡ Dato curioso: Participé en un equipo multidisciplinario para desarrollar un prototipo de mano mioeléctrica diseñada específicamente para niños amputados transradialmente. 
 Utilizamos análisis de datos para mejorar la precisión y funcionalidad del prototipo, buscando brindar una solución innovadora y personalizada que pueda mejorar la calidad de vida de estos jóvenes usuarios.
@@ -52,4 +52,3 @@ Utilizamos análisis de datos para mejorar la precisión y funcionalidad del pro
 
 ¡Estoy emocionado por conectar con otros entusiastas del análisis de datos y contribuir a proyectos desafiantes!
 
--->
