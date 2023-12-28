@@ -46,7 +46,7 @@ ________________________________________________________________________________
 
 
 ### 📫 Cómo contactarme
-Puedes encontrarme en mi [Sitio Web (https://www.nexatech.org)](https://www.linkedin.com/in/mbaeduleon/) o el [Blog](https://cienciatecnologiayfuturo.blogspot.com/p/acerca-de.html)
+Puedes encontrarme en mi [Sitio Web](https://www.nexatech.org) o el [Blog](https://cienciatecnologiayfuturo.blogspot.com/p/acerca-de.html)
 conectarte conmigo a través de [LinkedIn](https://www.linkedin.com/in/mbaeduleon/).
 
 ### ⚡ Dato curioso: Participé en un equipo multidisciplinario para desarrollar un prototipo de mano mioeléctrica diseñada específicamente para niños amputados transradialmente. 
