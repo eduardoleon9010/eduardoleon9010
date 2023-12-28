@@ -1,23 +1,28 @@
-
 Hello, I'm Eduardo Leon!
 Data Analyst and Scientist
-Welcome to my GitHub profile! I'm passionate about data analysis and science. My focus revolves around transforming data into actionable insights to drive strategic decisions.
+Welcome to my GitHub profile! I'm passionate about data analysis and science. My focus revolves around turning data into actionable insights to drive strategic decisions.
 
-🔭 Currently, I'm working on
+🔭 I'm currently working on
 Data analysis projects using Python and R.
-Enhancing my skills in advanced Machine Learning techniques.
+Improving my skills in Machine Learning techniques.
+
 👯 I'm interested in collaborating on
 Innovative data visualization projects.
 Challenges involving predictive analysis and process optimization.
-🌱 I'm currently learning advanced Machine Learning techniques and exploring data visualization tools to effectively present information.
-💬 Ask me about data analysis, science, visualization tools, or how to apply data analysis across different industries.
-📫 How to reach me
-You can find me on my Website or connect with me via LinkedIn.
 
-⚡ Fun fact: I was part of a multidisciplinary team involved in developing a myoelectric hand prototype specifically designed for children with transradial amputations.
-We used data analysis to improve the accuracy and functionality of the prototype, aiming to provide an innovative, personalized solution that could enhance the quality of life for these young users.
+🌱 I'm currently learning advanced Machine Learning techniques and exploring data visualization tools to present information more effectively.
 
-I'm thrilled to connect with fellow data analysis enthusiasts and contribute to challenging projects!
+💬 Ask me about data analysis, science, visualization tools, or how to apply data analysis in different industries.
+
+📫 How to contact me
+You can find me on my [Visita mi sitio web](https://www.nexatech.org)
+e or [Visita el Blog](https://cienciatecnologiayfuturo.blogspot.com/)
+, or connect with me via LinkedIn.
+
+⚡ Fun fact: I was part of a multidisciplinary team that developed a myoelectric hand prototype specifically designed for children with transradial amputations.
+We used data analysis to enhance the accuracy and functionality of the prototype, aiming to provide an innovative, personalized solution that could enhance the quality of life for these young users.
+
+I'm excited to connect with other data analysis enthusiasts and contribute to challenging projects!
 
 
 ________________________________________________________________________________________________________________________________________________________
@@ -43,7 +48,7 @@ ________________________________________________________________________________
 
 
 ### 📫 Cómo contactarme
-Puedes encontrarme en mi Sitio Web (https://www.nexatech.org) o 
+Puedes encontrarme en mi Sitio Web (https://www.nexatech.org) o el Blog (https://cienciatecnologiayfuturo.blogspot.com/)
 conectarte conmigo a través de LinkedIn (https://www.linkedin.com/in/mbaeduleon/).
 
 ### ⚡ Dato curioso: Participé en un equipo multidisciplinario para desarrollar un prototipo de mano mioeléctrica diseñada específicamente para niños amputados transradialmente. 
