@@ -1,23 +1,23 @@
-Hello, I'm Eduardo Leon!
-Data Analyst and Scientist
+# Hello, I'm Eduardo Leon!
+## Data Analyst and Scientist
 Welcome to my GitHub profile! I'm passionate about data analysis and science. My focus revolves around turning data into actionable insights to drive strategic decisions.
 
-🔭 I'm currently working on
+## 🔭 I'm currently working on
 Data analysis projects using Python and R.
 Improving my skills in Machine Learning techniques.
 
-👯 I'm interested in collaborating on
+## 👯 I'm interested in collaborating on
 Innovative data visualization projects.
 Challenges involving predictive analysis and process optimization.
 
-🌱 I'm currently learning advanced Machine Learning techniques and exploring data visualization tools to present information more effectively.
+## 🌱 I'm currently learning advanced Machine Learning techniques and exploring data visualization tools to present information more effectively.
 
-💬 Ask me about data analysis, science, visualization tools, or how to apply data analysis in different industries.
+## 💬 Ask me about data analysis, science, visualization tools, or how to apply data analysis in different industries.
 
-📫 How to contact me
+## 📫 How to contact me
 You can find me on my [Website](https://www.nexatech.org) or [Blog](https://cienciatecnologiayfuturo.blogspot.com/p/acerca-de.html), or connect with me via [LinkedIn](https://www.linkedin.com/in/mbaeduleon/).
 
-⚡ Fun fact: I was part of a multidisciplinary team that developed a myoelectric hand prototype specifically designed for children with transradial amputations.
+## ⚡ Fun fact: I was part of a multidisciplinary team that developed a myoelectric hand prototype specifically designed for children with transradial amputations.
 We used data analysis to enhance the accuracy and functionality of the prototype, aiming to provide an innovative, personalized solution that could enhance the quality of life for these young users.
 
 I'm excited to connect with other data analysis enthusiasts and contribute to challenging projects!
