@@ -12,12 +12,11 @@ Challenges involving predictive analysis and process optimization.
 
 ## 🌱 I'm currently learning advanced Machine Learning techniques and exploring data visualization tools to present information more effectively.
 
-## 💬 Ask me about data analysis, science, visualization tools, or how to apply data analysis in different industries.
-
 ## 📫 How to contact me
 You can find me on my [Website](https://www.nexatech.org) or [Blog](https://cienciatecnologiayfuturo.blogspot.com/p/acerca-de.html), or connect with me via [LinkedIn](https://www.linkedin.com/in/mbaeduleon/).
 
-## ⚡ Fun fact: I was part of a multidisciplinary team that developed a myoelectric hand prototype specifically designed for children with transradial amputations.
+### ⚡ Fun fact: I participated in a multidisciplinary team to develop a [myoelectric hand prototype designed specifically for transradial amputee children]([URL_del_proyecto](https://revistas.sena.edu.co/index.php/rediis/article/view/5577)).
+
 We used data analysis to enhance the accuracy and functionality of the prototype, aiming to provide an innovative, personalized solution that could enhance the quality of life for these young users.
 
 I'm excited to connect with other data analysis enthusiasts and contribute to challenging projects!
@@ -42,14 +41,14 @@ ________________________________________________________________________________
 - Desafíos que involucren el análisis predictivo y la optimización de procesos.
 
 ### 🌱 Actualmente estoy aprendiendo técnicas avanzadas de Machine Learning y explorando herramientas de visualización de datos para presentar información de manera más efectiva.
-- 💬 Pregúntame sobre análisis de datos, ciencia de datos, herramientas de visualización o sobre cómo aplicar el análisis de datos en diferentes industrias.
 
 
 ### 📫 Cómo contactarme
 Puedes encontrarme en mi [Sitio Web](https://www.nexatech.org) o el [Blog](https://cienciatecnologiayfuturo.blogspot.com/p/acerca-de.html)
 conectarte conmigo a través de [LinkedIn](https://www.linkedin.com/in/mbaeduleon/).
 
-### ⚡ Dato curioso: Participé en un equipo multidisciplinario para desarrollar un prototipo de mano mioeléctrica diseñada específicamente para niños amputados transradialmente. 
+### ⚡ Dato curioso: Participé en un equipo multidisciplinario para desarrollar un [prototipo de mano mioeléctrica diseñada específicamente para niños amputados transradialmente]([URL_del_proyecto](https://revistas.sena.edu.co/index.php/rediis/article/view/5577)).
+
 Utilizamos análisis de datos para mejorar la precisión y funcionalidad del prototipo, buscando brindar una solución innovadora y personalizada que pueda mejorar la calidad de vida de estos jóvenes usuarios.
 
 
