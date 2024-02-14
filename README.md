@@ -15,7 +15,7 @@ Challenges involving predictive analysis and process optimization.
 ## 📫 How to contact me
 You can find me on my [Website](https://www.nexatech.org) or [Blog](https://cienciatecnologiayfuturo.blogspot.com/p/acerca-de.html), or connect with me via [LinkedIn](https://www.linkedin.com/in/mbaeduleon/).
 
-### ⚡ Fun fact: I participated in a multidisciplinary team to develop a [myoelectric hand prototype designed specifically for transradial amputee children]([URL_del_proyecto](https://revistas.sena.edu.co/index.php/rediis/article/view/5577)).
+### ⚡ Fun fact: I participated in a multidisciplinary team to develop a [myoelectric hand prototype designed specifically for transradial amputee children](https://revistas.sena.edu.co/index.php/rediis/article/view/5577).
 
 We used data analysis to enhance the accuracy and functionality of the prototype, aiming to provide an innovative, personalized solution that could enhance the quality of life for these young users.
 
@@ -47,7 +47,7 @@ ________________________________________________________________________________
 Puedes encontrarme en mi [Sitio Web](https://www.nexatech.org) o el [Blog](https://cienciatecnologiayfuturo.blogspot.com/p/acerca-de.html)
 conectarte conmigo a través de [LinkedIn](https://www.linkedin.com/in/mbaeduleon/).
 
-### ⚡ Dato curioso: Participé en un equipo multidisciplinario para desarrollar un [prototipo de mano mioeléctrica diseñada específicamente para niños amputados transradialmente]([URL_del_proyecto](https://revistas.sena.edu.co/index.php/rediis/article/view/5577)).
+### ⚡ Dato curioso: Participé en un equipo multidisciplinario para desarrollar un [prototipo de mano mioeléctrica diseñada específicamente para niños amputados transradialmente](https://revistas.sena.edu.co/index.php/rediis/article/view/5577).
 
 Utilizamos análisis de datos para mejorar la precisión y funcionalidad del prototipo, buscando brindar una solución innovadora y personalizada que pueda mejorar la calidad de vida de estos jóvenes usuarios.
 
