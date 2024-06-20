@@ -24,8 +24,6 @@ I'm excited to connect with other data analysis enthusiasts and contribute to ch
 
 ________________________________________________________________________________________________________________________________________________________
 
-
-
 # ¡Hola, soy Eduardo Leon!
 
 ## Analista y Científico de Datos
