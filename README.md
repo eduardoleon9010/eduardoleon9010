@@ -1,54 +1,123 @@
-# Hello, I'm Eduardo Leon!
-## Data Analyst and Scientist
-Welcome to my GitHub profile! I'm passionate about data analysis and science. My focus revolves around turning data into actionable insights to drive strategic decisions.
+# Hello! I'm Eduardo León 👋  
+### Computer Engineer, Data Analyst, and Data Scientist  
 
-## 🔭 I'm currently working on
-Data analysis projects using Python and R.
-Improving my skills in Machine Learning techniques.
+Welcome to my GitHub profile—a space where I combine technical expertise, a passion for education, and a focus on innovation to create impactful technological solutions.
 
-## 👯 I'm interested in collaborating on
-Innovative data visualization projects.
-Challenges involving predictive analysis and process optimization.
+---
 
-## 🌱 I'm currently learning advanced Machine Learning techniques and exploring data visualization tools to present information more effectively.
+### About Me  
+I am a computer engineer with a solid interdisciplinary background, complemented by an **MBA in Senior Management**, and currently pursuing a **PhD in Engineering Research**. With over two years of experience teaching in higher education, I specialize in **data analysis**, **machine learning**, and **Business Intelligence (BI)** systems.  
 
-## 📫 How to contact me
-You can find me on my [Website](https://www.nexatech.org) or [Blog](https://cienciatecnologiayfuturo.blogspot.com/p/acerca-de.html), or connect with me via [LinkedIn](https://www.linkedin.com/in/mbaeduleon/).
+I lead innovative projects and enjoy fostering professional growth in students and collaborators through teaching and research.
 
-### ⚡ Fun fact: I participated in a multidisciplinary team to develop a [myoelectric hand prototype designed specifically for transradial amputee children](https://revistas.sena.edu.co/index.php/rediis/article/view/5577).
+---
 
-We used data analysis to enhance the accuracy and functionality of the prototype, aiming to provide an innovative, personalized solution that could enhance the quality of life for these young users.
+### 🔭 Current Projects  
+- **Developing predictive models and BI solutions:** Integrating advanced analytics and visualization tools.  
+- **Optimizing educational and technological systems:** Applying **Machine Learning** techniques to enhance efficiency and accessibility.  
+- **Advanced pediatric prosthetics:** Innovating devices using additive manufacturing technologies.  
 
-I'm excited to connect with other data analysis enthusiasts and contribute to challenging projects!
+---
+
+### 👯 Open to Collaborate On:  
+- Interdisciplinary projects applying **Machine Learning** and **Data Science** to social and business challenges.  
+- Educational technology initiatives driving digital transformation.  
+- Challenges in **data governance**, **IoT**, and **artificial intelligence**.  
+
+---
+
+### 🌱 Currently Learning  
+- Neural networks and deep learning for advanced analytics.  
+- Cutting-edge tools and frameworks like **D3.js**, **Plotly**, and **Power BI**.  
+
+---
+
+### 📚 Featured Publications  
+1. **Development of Pediatric Prosthetics with Additive Manufacturing Technology for Transradial Amputations.**  
+   - *Journal of Research and Innovation in Health (REDIIS), 2024.*  
+   - DOI: 10.23850/rediis.v7i7.5577  
+
+2. **Neuromuscular Characteristics: Kinematics and Kinetics in University Athletes Practicing Weightlifting.**  
+   - *Encuentros con Semilleros, 2019.*  
+   - DOI: 10.15765/es.v1i1.1606  
+
+---
+
+### 📫 Contact Me  
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mbaeduleon/)
+- **Website:** [Explore my services](www.nexatech.org)
+- **Blog:** [Explore my outreach](https://cienciatecnologiayfuturo.blogspot.com/p/acerca-de.html) 
+
+---
+
+### ⚡ Fun Fact  
+I led data analysis efforts to optimize the functionality of a **pediatric myoelectric hand prototype**, showcasing how technology can transform lives.
+
+---
+
+Let's connect and collaborate on challenging projects, turning ideas into reality! 🚀
+
 
 
 ________________________________________________________________________________________________________________________________________________________
 
-# ¡Hola, soy Eduardo Leon!
+# ¡Hola! Soy Eduardo León 👋  
+### Ingeniero Informático, Analista y Científico de Datos  
 
-## Analista y Científico de Datos
+Bienvenido/a a mi perfil de GitHub, un espacio donde combino mi experiencia técnica, mi pasión por la educación y mi enfoque en la innovación para crear soluciones tecnológicas con impacto real.
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado por el análisis de datos y la ciencia de datos. Mi enfoque se centra en convertir datos en insights accionables para impulsar decisiones estratégicas.
+---
 
-### 🔭 Actualmente estoy trabajando en
-- Proyectos de análisis de datos utilizando Python y R.
-- Mejorar mis habilidades en técnicas de Machine Learning.
+### Sobre mí  
+Soy ingeniero informático con una sólida formación interdisciplinaria, complementada con un **Magister en Alta Dirección (MBA)** y actualmente doctorando en **Investigación en Ingeniería**. Con más de dos años de experiencia docente en educación superior, me especializo en análisis de datos, aprendizaje automático y sistemas de **Business Intelligence (BI)**.  
 
-### 👯 Estoy interesado en colaborar en
-- Proyectos de visualización de datos innovadores.
-- Desafíos que involucren el análisis predictivo y la optimización de procesos.
+Lidero proyectos innovadores y disfruto impulsando el desarrollo profesional de estudiantes y colaboradores mediante la docencia y la investigación.
 
-### 🌱 Actualmente estoy aprendiendo técnicas avanzadas de Machine Learning y explorando herramientas de visualización de datos para presentar información de manera más efectiva.
+---
 
+### 🔭 Proyectos actuales  
+- **Desarrollo de modelos predictivos y soluciones BI:** Integrando análisis avanzados y herramientas de visualización.  
+- **Optimización de sistemas educativos y tecnológicos:** Aplicando técnicas de **Machine Learning** para mejorar la eficiencia y accesibilidad.  
+- **Prótesis infantiles avanzadas:** Participando en la innovación de dispositivos utilizando tecnología de fabricación aditiva.  
 
-### 📫 Cómo contactarme
-Puedes encontrarme en mi [Sitio Web](https://www.nexatech.org) o el [Blog](https://cienciatecnologiayfuturo.blogspot.com/p/acerca-de.html)
-conectarte conmigo a través de [LinkedIn](https://www.linkedin.com/in/mbaeduleon/).
+---
 
-### ⚡ Dato curioso: Participé en un equipo multidisciplinario para desarrollar un [prototipo de mano mioeléctrica diseñada específicamente para niños amputados transradialmente](https://revistas.sena.edu.co/index.php/rediis/article/view/5577).
+### 👯 Me interesa colaborar en:  
+- Proyectos interdisciplinarios que apliquen **Machine Learning** y **Data Science** a problemas sociales y empresariales.  
+- Iniciativas educativas tecnológicas que promuevan la transformación digital.  
+- Desafíos en **gobernanza de datos**, **IoT** e **inteligencia artificial**.  
 
-Utilizamos análisis de datos para mejorar la precisión y funcionalidad del prototipo, buscando brindar una solución innovadora y personalizada que pueda mejorar la calidad de vida de estos jóvenes usuarios.
+---
 
+### 🌱 Actualmente aprendiendo  
+- Redes neuronales y aprendizaje profundo para análisis avanzados.  
+- Herramientas y frameworks innovadores como **D3.js**, **Plotly** y **Power BI**.  
 
-¡Estoy emocionado por conectar con otros entusiastas del análisis de datos y contribuir a proyectos desafiantes!
+---
+
+### 📚 Publicaciones destacadas  
+1. **Desarrollo de prótesis infantil con tecnología de fabricación aditiva para amputaciones transradiales.**  
+   - *Revista de Investigación e Innovación en Salud (REDIIS), 2024.*  
+   - DOI: 10.23850/rediis.v7i7.5577  
+
+2. **Características neuromusculares: cinemática y cinética en atletas universitarios practicantes de levantamiento de pesas.**  
+   - *Encuentros con semilleros, 2019.*  
+   - DOI: 10.15765/es.v1i1.1606  
+
+---
+
+### 📫 Contáctame  
+- **LinkedIn:** [Conéctate conmigo](https://www.linkedin.com/in/mbaeduleon/)  
+- **Sitio web:** [Explora mis servicios](www.nexatech.org)
+- **Blog:**[Explora mi divulgacion](https://cienciatecnologiayfuturo.blogspot.com/p/acerca-de.html) 
+
+---
+
+### ⚡ Dato curioso  
+Lideré el análisis de datos para optimizar la funcionalidad de un prototipo de **mano mioeléctrica infantil**, demostrando cómo la tecnología puede transformar vidas.
+
+---
+
+¡Hablemos de cómo podemos colaborar en proyectos desafiantes y transformar ideas en realidad! 🚀
+
 
