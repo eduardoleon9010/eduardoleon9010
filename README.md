@@ -125,7 +125,7 @@ ISSN: 3028-6956
 
 
 #### Ponente
-## V CONGRESO INTERNACIONAL VIRTUAL DE EDUCACION  
+**V CONGRESO INTERNACIONAL VIRTUAL DE EDUCACION**  
 *Centro Latinoamericano de Investigación e Innovación Científica, 2024*
 ISSN: 3028-4155  
 DOI: [10.5281/zenodo.14396938](https://doi.org/10.5281/zenodo.14396938)
