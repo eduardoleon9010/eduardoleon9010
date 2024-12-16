@@ -1,5 +1,5 @@
 # Hello! I'm Eduardo León 👋  
-### Computer Engineer, Data Analyst, and Data Scientist  
+### Computer Engineer, Analyst and Data Scientist  
 
 Welcome to my GitHub profile—a space where I combine technical expertise, a passion for education, and a focus on innovation to create impactful technological solutions.
 
