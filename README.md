@@ -45,7 +45,7 @@ DOI: [10.5281/zenodo.14497340](https://doi.org/10.5281/zenodo.14497340)
 ISSN: 3028-6956
 
 
-##### Lecturer
+#### Speaker
 **V VIRTUAL INTERNATIONAL CONGRESS ON EDUCATION**  
 *Latin American Center for Scientific Research and Innovation, 2024*  
 ISSN: 3028-4155  
