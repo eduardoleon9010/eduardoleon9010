@@ -34,35 +34,32 @@ I lead innovative projects and enjoy fostering professional growth in students a
 
 ### 📚 featured Publications  
 
-# Interactive Atlas of Python Programming: A Practical Guide for the Digital Age
-**Independent Publication**  
-**ISBN:** 978-628-01-6444-1, (e-book) 978-628-01-6504-2  
-**DOI:** [10.5281/zenodo.14497340](https://doi.org/10.5281/zenodo.14497340)
+**Interactive Atlas of Python Programming: A Practical Guide for the Digital Age**
+*Independent Publication* 
+ISBN: 978-628-01-6444-1, (e-book) 978-628-01-6504-2  
+DOI: [10.5281/zenodo.14497340](https://doi.org/10.5281/zenodo.14497340)
 
----
 
-# Quantum Computing: Advances, Challenges, and New Paradigms in Cryptography, Optimization, and Material Simulation
-**Journal of Research and Business (Innova Sena), 2024**  
-**ISSN:** 3028-6956
+**Quantum Computing: Advances, Challenges, and New Paradigms in Cryptography, Optimization, and Material Simulation**
+*Journal of Research and Business (Innova Sena), 2024*
+ISSN: 3028-6956
 
----
 
-# Speaker
-## V VIRTUAL INTERNATIONAL CONGRESS ON EDUCATION  
-Latin American Center for Scientific Research and Innovation, 2024  
-**ISSN:** 3028-4155  
-**DOI:** [10.5281/zenodo.14396938](https://doi.org/10.5281/zenodo.14396938)
----
+##### Speaker
+**V VIRTUAL INTERNATIONAL CONGRESS ON EDUCATION**  
+*Latin American Center for Scientific Research and Innovation, 2024*  
+ISSN: 3028-4155  
+DOI: [10.5281/zenodo.14396938](https://doi.org/10.5281/zenodo.14396938)
+
 
 **Development of Pediatric Prosthetics with Additive Manufacturing Technology for Transradial Amputations.**  
-   - *Journal of Research and Innovation in Health (REDIIS), 2024.*  
-   - DOI: 10.23850/rediis.v7i7.5577  
+*Journal of Research and Innovation in Health (REDIIS), 2024.*  
+DOI: 10.23850/rediis.v7i7.5577  
 
 **Neuromuscular Characteristics: Kinematics and Kinetics in University Athletes Practicing Weightlifting.**  
-   - *Encuentros con Semilleros, 2019.*  
-   - DOI: 10.15765/es.v1i1.1606  
+*Encuentros con Semilleros, 2019.*  
+DOI: 10.15765/es.v1i1.1606  
 
----
 
 ### 📫 Contact Me  
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mbaeduleon/)
@@ -114,39 +111,34 @@ Lidero proyectos innovadores y disfruto impulsando el desarrollo profesional de 
 - Redes neuronales y aprendizaje profundo para análisis avanzados.  
 - Herramientas y frameworks innovadores como **D3.js**, **Plotly** y **Power BI**.  
 
----
 
 ### 📚 Publicaciones destacadas  
-# Atlas interactivo de programación en Python: una guía práctica para la era digital
-**Publicación independiente**  
-**ISBN:** 978-628-01-6444-1, (e-book) 978-628-01-6504-2  
-**DOI:** [10.5281/zenodo.14497340](https://doi.org/10.5281/zenodo.14497340)
+**Atlas interactivo de programación en Python: una guía práctica para la era digital**
+*Publicación independiente*  
+ISBN: 978-628-01-6444-1, (e-book) 978-628-01-6504-2  
+DOI: [10.5281/zenodo.14497340](https://doi.org/10.5281/zenodo.14497340)
 
----
 
-# Computación cuántica: Avances, desafíos y nuevos paradigmas en criptografía, optimización y simulación de materiales
-**Revista de Investigación y Negocios (Innova Sena), 2024**  
-**ISSN:** 3028-6956
+**Computación cuántica: Avances, desafíos y nuevos paradigmas en criptografía, optimización y simulación de materiales**
+*Revista de Investigación y Negocios (Innova Sena), 2024* 
+ISSN: 3028-6956
 
----
 
-# Ponente
+#### Ponente
 ## V CONGRESO INTERNACIONAL VIRTUAL DE EDUCACION  
-Centro Latinoamericano de Investigación e Innovación Científica, 2024  
-**ISSN:** 3028-4155  
-**DOI:** [10.5281/zenodo.14396938](https://doi.org/10.5281/zenodo.14396938)
+*Centro Latinoamericano de Investigación e Innovación Científica, 2024*
+ISSN: 3028-4155  
+DOI: [10.5281/zenodo.14396938](https://doi.org/10.5281/zenodo.14396938)
 
----
 
 **Desarrollo de prótesis infantil con tecnología de fabricación aditiva para amputaciones transradiales.**  
-   - *Revista de Investigación e Innovación en Salud (REDIIS), 2024.*  
-   - DOI: 10.23850/rediis.v7i7.5577  
+*Revista de Investigación e Innovación en Salud (REDIIS), 2024.*  
+DOI: [10.23850/rediis.v7i7.5577](https://doi.org/10.23850/rediis.v7i7.5577) 
 
-----
 
 **Características neuromusculares: cinemática y cinética en atletas universitarios practicantes de levantamiento de pesas.**  
-   - *Encuentros con semilleros, 2019.*  
-   - DOI: 10.15765/es.v1i1.1606  
+*Encuentros con semilleros, 2019.*  
+DOI: [10.15765/es.v1i1.1606](https://doi.org/10.15765/es.v1i1.1606)  
 
 ---
 
