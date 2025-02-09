@@ -5,34 +5,34 @@ Welcome to my GitHub profile—a space where I combine technical expertise, a pa
 
 ---
 
-### About Me  
+### About me  
 I am a computer engineer with a solid interdisciplinary background, complemented by an **MBA in Senior Management**, and currently pursuing a **PhD in Engineering Research**. With over two years of experience teaching in higher education, I specialize in **data analysis**, **machine learning**, and **Business Intelligence (BI)** systems.  
 
 I lead innovative projects and enjoy fostering professional growth in students and collaborators through teaching and research.
 
 ---
 
-### 🔭 Current Projects  
+### 🔭 Current projects  
 - **Developing predictive models and BI solutions:** Integrating advanced analytics and visualization tools.  
 - **Optimizing educational and technological systems:** Applying **Machine Learning** techniques to enhance efficiency and accessibility.  
 - **Advanced pediatric prosthetics:** Innovating devices using additive manufacturing technologies.  
 
 ---
 
-### 👯 Open to Collaborate On:  
+### 👯 Open to collaborate on:  
 - Interdisciplinary projects applying **Machine Learning** and **Data Science** to social and business challenges.  
 - Educational technology initiatives driving digital transformation.  
 - Challenges in **data governance**, **IoT**, and **artificial intelligence**.  
 
 ---
 
-### 🌱 Currently Learning  
+### 🌱 Currently learning  
 - Neural networks and deep learning for advanced analytics.  
 - Cutting-edge tools and frameworks like **D3.js**, **Plotly**, and **Power BI**.  
 
 ---
 
-### 📚 featured Publications  
+### 📚 Featured publications  
 
 **Interactive Atlas of Python Programming: A Practical Guide for the Digital Age**
 *Independent Publication* 
@@ -61,14 +61,14 @@ DOI: 10.23850/rediis.v7i7.5577
 DOI: 10.15765/es.v1i1.1606  
 
 
-### 📫 Contact Me  
+### 📫 Contact me  
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mbaeduleon/)
 - **Website:** [Explore my services](www.nexatech.org)
 - **Blog:** [Explore my outreach](https://cienciatecnologiayfuturo.blogspot.com/p/acerca-de.html) 
 
 ---
 
-### ⚡ Fun Fact  
+### ⚡ Fun fact  
 I led data analysis efforts to optimize the functionality of a **pediatric myoelectric hand prototype**, showcasing how technology can transform lives.
 
 ---
