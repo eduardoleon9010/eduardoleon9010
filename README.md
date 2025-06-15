@@ -1,6 +1,6 @@
 <!-- Perfil Profesional de Eduardo León -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1DjyeoKc0GRE8WfFBWt8OR_mBe4Fl0_0j" width="100%" alt="Banner Tecnológico"/>
+  <img src="https://media.licdn.com/dms/image/D4E16AQFGppSB7FvqOw/profile-displaybackgroundimage-shrink_350_1400/0/1712872343707?e=1724284800&v=beta&t=Fq6k5Ub2Wm7pTV_Yh1H3QZ7ix77aSkDjWcMH1a3Oyjc" width="100%" alt="Banner Tecnológico"/>
 </p>
 
 <h1 align="center">
@@ -25,33 +25,38 @@
 ## 👨‍🏫 Sobre mí
 Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctorando en Investigación en Ingeniería. Cuento con experiencia docente en educación superior, me especializo en **análisis de datos**, **machine learning** y **sistemas de inteligencia de negocios (BI)**. Me apasiona la innovación tecnológica, el impacto social y el desarrollo profesional de mis estudiantes y colaboradores.
 
-## Áreas de experiencia 🧠 
+
+## 🧠 Áreas de Experiencia
 - Análisis cuantitativo y minería de datos
 - Modelado predictivo con Python y R
 - Visualización interactiva con herramientas modernas
 - Desarrollo de soluciones BI para la toma de decisiones
 - Optimización de procesos educativos y tecnológicos
 
-## Proyectos actuales 🔍 
+
+## 🔍 Proyectos Actuales
 - Modelos predictivos y visualización avanzada en Power BI
 - Aplicaciones de ML en entornos educativos y de salud
 - Prótesis mioeléctricas infantiles con fabricación aditiva
 
-## Me interesa colaborar en🤝 
+
+## 🤝 Me interesa colaborar en
 - Proyectos interdisciplinarios con IA, IoT y ciencia de datos
 - Transformación digital en educación y salud
 - Ciencia abierta, innovación social y gobierno de datos
 
-## Publicaciones 📚 
+
+## 📚 Publicaciones
 - **Atlas Interactivo de Programación en Python** — ISBN: 978-628-01-6444-1 — [DOI](https://doi.org/10.5281/zenodo.14497340)
 - **Computación Cuántica y Nuevos Paradigmas** — *Innova Sena, 2024* — ISSN: 3028-6956
 - **Prótesis Infantiles Avanzadas** — *REDIIS, 2024* — [DOI](https://doi.org/10.23850/rediis.v7i7.5577)
 - **Congreso Internacional Virtual de Educación** — [DOI](https://doi.org/10.5281/zenodo.14396938)
 - **Cinemática en Atletas Universitarios** — *Encuentros con Semilleros, 2019* — [DOI](https://doi.org/10.15765/es.v1i1.1606)
 
-## Tech Stack 🧰 
 
-### Lenguajes de programación 👨‍💻 
+## 🧰 Tech Stack
+
+### 👨‍💻 Lenguajes de programación
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
 ![R](https://img.shields.io/badge/R-05122A?style=flat&logo=r)
 ![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)
@@ -59,7 +64,7 @@ Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctoran
 ![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
 
-### 📊 Ciencia de datos y visualización
+### 📊 Ciencia de Datos y Visualización
 ![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=pandas)
 ![Plotly](https://img.shields.io/badge/Plotly-05122A?style=flat&logo=plotly)
 ![Power BI](https://img.shields.io/badge/Power_BI-05122A?style=flat&logo=powerbi)
@@ -72,11 +77,11 @@ Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctoran
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code)
 
+
 ## 🧪 Estadísticas GitHub
 ![Eduardo's Stats](https://github-readme-stats.vercel.app/api?username=eduardoleon9010&show_icons=true&theme=dark)
 ![Eduardo's Streak](https://github-readme-streak-stats.herokuapp.com?user=eduardoleon9010&theme=dark)
 ![Eduardo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardoleon9010&theme=react-dark&area=true)
-
 
 
 Gracias por visitar mi perfil. ¡Conectemos y creemos impacto con tecnología! 🚀
