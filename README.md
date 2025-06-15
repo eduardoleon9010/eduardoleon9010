@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <a href="https://github.com/eduardoleon9010">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=Ingeniero+Inform%C3%A1tico+%7C+MBA+Alta+Direcci%C3%B3n+%7C+PhD+(c);Cient%C3%ADfico+de+Datos+%7C+Educador+%7C+Innovador+Social;Liderando+proyectos+con+Machine+Learning+y+Tecnolog%C3%ADa+Educativa;Impactando+vidas+con+inteligencia+artificial+y+fabricaci%C3%B3n+aditiva" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=Ingeniero+Inform%C3%A1tico+%7C+Magister+Alta+Direcci+(MBA)%C3%B3n+%7C+PhD+(c);Cient%C3%ADfico+de+Datos+%7C+Educador+%7C+Innovador+Social;Liderando+proyectos+con+Machine+Learning+y+Tecnolog%C3%ADa+Educativa;Impactando+vidas+con+inteligencia+artificial+y+fabricaci%C3%B3n+aditiva" alt="Typing SVG" />
   </a>
 </h1>
 
