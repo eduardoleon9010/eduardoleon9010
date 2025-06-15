@@ -85,3 +85,4 @@ Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctoran
 
 
 Gracias por visitar mi perfil. ¡Conectemos y creemos impacto con tecnología! 🚀
+
