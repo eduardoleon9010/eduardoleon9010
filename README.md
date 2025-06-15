@@ -24,10 +24,10 @@
 
 
 ## 👨‍🏫 Sobre mí
-Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctorando en Investigación en Ingeniería. Cuento con experiencia docente en educación superior, me especializo en **análisis de datos**, **machine learning** y **sistemas de inteligencia de negocios (BI)**. Me apasiona la innovación tecnológica, el impacto social y el desarrollo profesional de mis estudiantes y colaboradores.
+Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctorando en Investigación en Ingeniería. Cuento con experiencia docente en educación superior, me especializo en análisis de datos, machine learning y sistemas de inteligencia de negocios (BI). Me apasiona la innovación tecnológica, el impacto social y el desarrollo profesional de mis estudiantes y colaboradores.
 
 
-## 🧠 Áreas de Experiencia
+## 🧠 Áreas de experiencia
 - Análisis cuantitativo y minería de datos
 - Modelado predictivo con Python y R
 - Visualización interactiva con herramientas modernas
@@ -35,7 +35,7 @@ Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctoran
 - Optimización de procesos educativos y tecnológicos
 
 
-## 🔍 Proyectos Actuales
+## 🔍 Proyectos actuales
 - Modelos predictivos y visualización avanzada en Power BI
 - Aplicaciones de ML en entornos educativos y de salud
 - Prótesis mioeléctricas infantiles con fabricación aditiva
@@ -65,7 +65,7 @@ Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctoran
 ![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
 
-### 📊 Ciencia de Datos y Visualización
+### 📊 Ciencia de datos y visualización
 ![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=pandas)
 ![Plotly](https://img.shields.io/badge/Plotly-05122A?style=flat&logo=plotly)
 ![Power BI](https://img.shields.io/badge/Power_BI-05122A?style=flat&logo=powerbi)
