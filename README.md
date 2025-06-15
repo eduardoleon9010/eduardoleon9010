@@ -78,9 +78,9 @@ Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctoran
 ---
 
 ## 🧪 Estadísticas GitHub
-![Eduardo's Stats](https://github-readme-stats.vercel.app/api?username=mbaeduleon&show_icons=true&theme=dark)
-![Eduardo's Streak](https://github-readme-streak-stats.herokuapp.com?user=mbaeduleon&theme=dark)
-![Eduardo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbaeduleon&theme=react-dark&area=true)
+![Eduardo's Stats](https://github-readme-stats.vercel.app/api?username=eduardoleon9010&show_icons=true&theme=dark)
+![Eduardo's Streak](https://github-readme-streak-stats.herokuapp.com?user=eduardoleon9010&theme=dark)
+![Eduardo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardoleon9010&theme=react-dark&area=true)
 
 ---
 
