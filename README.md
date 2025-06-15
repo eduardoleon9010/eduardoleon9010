@@ -1,159 +1,108 @@
-# Hello! I'm Eduardo León 👋  
-### Computer Engineer, Analyst and Data Scientist  
+<h1 align="center">Hi, I'm Eduardo León 👋</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23009688&size=25&center=true&vCenter=true&width=800&height=100&lines=Computer+Engineer+%7C+Data+Scientist+%7C+Educator+%7C+PhD+Researcher;Innovation+and+Technology+for+Social+Impact;Business+Intelligence+%7C+Machine+Learning+%7C+Python+Developer" />
+  </a>
+</p>
 
-Welcome to my GitHub profile—a space where I combine technical expertise, a passion for education, and a focus on innovation to create impactful technological solutions.
+<br/>
 
----
+## 🧠 About Me
 
-### About me  
-I am a computer engineer with a solid interdisciplinary background, complemented by an **MBA in Senior Management**, and currently pursuing a **PhD in Engineering Research**. With over two years of experience teaching in higher education, I specialize in **data analysis**, **machine learning**, and **Business Intelligence (BI)** systems.  
+<picture>
+  <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250px">
+</picture>
 
-I lead innovative projects and enjoy fostering professional growth in students and collaborators through teaching and research.
-
----
-
-### 🔭 Current projects  
-- **Developing predictive models and BI solutions:** Integrating advanced analytics and visualization tools.  
-- **Optimizing educational and technological systems:** Applying **Machine Learning** techniques to enhance efficiency and accessibility.  
-- **Advanced pediatric prosthetics:** Innovating devices using additive manufacturing technologies.  
-
----
-
-### 👯 Open to collaborate on:  
-- Interdisciplinary projects applying **Machine Learning** and **Data Science** to social and business challenges.  
-- Educational technology initiatives driving digital transformation.  
-- Challenges in **data governance**, **IoT**, and **artificial intelligence**.  
+- 🎓 **Computer Engineer**, with an **MBA in Senior Management**
+- 🎓 Currently pursuing a **PhD in Engineering Research**
+- 👨‍🏫 Over 2 years of experience teaching in **Higher Education**
+- 🧠 Specialized in **Data Analysis**, **Machine Learning**, and **Business Intelligence**
+- 🚀 Passionate about technological innovation, open education, and impactful research
 
 ---
 
-### 🌱 Currently learning  
-- Neural networks and deep learning for advanced analytics.  
-- Cutting-edge tools and frameworks like **D3.js**, **Plotly**, and **Power BI**.  
+## 🔭 Current Projects
+
+- Building **Predictive Models** and **BI Dashboards**
+- Innovating with **Additive Manufacturing** for pediatric prosthetics
+- Applying **ML** to improve educational systems and social services
 
 ---
 
-### 📚 Featured publications  
+## 🤝 Open to Collaborate On
 
-**Interactive Atlas of Python Programming: A Practical Guide for the Digital Age**
-*Independent Publication* 
-ISBN: 978-628-01-6444-1, (e-book) 978-628-01-6504-2  
-DOI: [10.5281/zenodo.14497340](https://doi.org/10.5281/zenodo.14497340)
-
-
-**Quantum Computing: Advances, Challenges, and New Paradigms in Cryptography, Optimization, and Material Simulation**
-*Journal of Research and Business (Innova Sena), 2024*
-ISSN: 3028-6956
-
-
-#### Speaker
-**V VIRTUAL INTERNATIONAL CONGRESS ON EDUCATION**  
-*Latin American Center for Scientific Research and Innovation, 2024*  
-ISSN: 3028-4155  
-DOI: [10.5281/zenodo.14396938](https://doi.org/10.5281/zenodo.14396938)
-
-
-**Development of Pediatric Prosthetics with Additive Manufacturing Technology for Transradial Amputations.**  
-*Journal of Research and Innovation in Health (REDIIS), 2024.*  
-DOI: 10.23850/rediis.v7i7.5577  
-
-**Neuromuscular Characteristics: Kinematics and Kinetics in University Athletes Practicing Weightlifting.**  
-*Encuentros con Semilleros, 2019.*  
-DOI: 10.15765/es.v1i1.1606  
-
-
-### 📫 Contact me  
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mbaeduleon/)
-- **Website:** [Explore my services](www.nexatech.org)
-- **Blog:** [Explore my outreach](https://cienciatecnologiayfuturo.blogspot.com/p/acerca-de.html) 
+- Interdisciplinary projects that apply **ML/Data Science** to real-world challenges  
+- Educational technology to support **digital transformation**  
+- AI, **IoT**, and **Data Governance** solutions
 
 ---
 
-### ⚡ Fun fact  
-I led data analysis efforts to optimize the functionality of a **pediatric myoelectric hand prototype**, showcasing how technology can transform lives.
+## 🌱 Currently Learning
+
+- Advanced neural networks and deep learning frameworks  
+- Tools: **D3.js**, **Plotly**, **Power BI**
 
 ---
 
-Let's connect and collaborate on challenging projects, turning ideas into reality! 🚀
+## 📚 Featured Publications
 
+- **Interactive Atlas of Python Programming**  
+  ISBN: 978-628-01-6444-1 | eBook: 978-628-01-6504-2  
+  [DOI: 10.5281/zenodo.14497340](https://doi.org/10.5281/zenodo.14497340)
 
+- **Quantum Computing: Advances and Paradigms**  
+  *Journal of Research and Business (Innova Sena), 2024*  
+  ISSN: 3028-6956
 
-________________________________________________________________________________________________________________________________________________________
+- **Development of Pediatric Prosthetics with Additive Manufacturing**  
+  *REDIIS, 2024*  
+  DOI: [10.23850/rediis.v7i7.5577](https://doi.org/10.23850/rediis.v7i7.5577)
 
-# ¡Hola! Soy Eduardo León 👋  
-### Ingeniero Informático, Analista y Científico de Datos  
+- **V Virtual International Congress on Education – Speaker**  
+  [DOI: 10.5281/zenodo.14396938](https://doi.org/10.5281/zenodo.14396938)
 
-Bienvenido/a a mi perfil de GitHub, un espacio donde combino mi experiencia técnica, mi pasión por la educación y mi enfoque en la innovación para crear soluciones tecnológicas con impacto real.
-
----
-
-### Sobre mí  
-Soy ingeniero informático con una sólida formación interdisciplinaria, complementada con un **Magister en Alta Dirección (MBA)** y actualmente doctorando en **Investigación en Ingeniería**. Con más de dos años de experiencia docente en educación superior, me especializo en análisis de datos, aprendizaje automático y sistemas de **Business Intelligence (BI)**.  
-
-Lidero proyectos innovadores y disfruto impulsando el desarrollo profesional de estudiantes y colaboradores mediante la docencia y la investigación.
-
----
-
-### 🔭 Proyectos actuales  
-- **Desarrollo de modelos predictivos y soluciones BI:** Integrando análisis avanzados y herramientas de visualización.  
-- **Optimización de sistemas educativos y tecnológicos:** Aplicando técnicas de **Machine Learning** para mejorar la eficiencia y accesibilidad.  
-- **Prótesis infantiles avanzadas:** Participando en la innovación de dispositivos utilizando tecnología de fabricación aditiva.  
+- **Neuromuscular Study in Weightlifting Athletes**  
+  *Encuentros con Semilleros, 2019*  
+  DOI: [10.15765/es.v1i1.1606](https://doi.org/10.15765/es.v1i1.1606)
 
 ---
 
-### 👯 Me interesa colaborar en:  
-- Proyectos interdisciplinarios que apliquen **Machine Learning** y **Data Science** a problemas sociales y empresariales.  
-- Iniciativas educativas tecnológicas que promuevan la transformación digital.  
-- Desafíos en **gobernanza de datos**, **IoT** e **inteligencia artificial**.  
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:eduardo@nexatech.org"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/mbaeduleon"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/mbaeduleon/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://cienciatecnologiayfuturo.blogspot.com/p/acerca-de.html"><img src="https://img.shields.io/badge/blogger-%23FF5722.svg?style=plastic&logo=blogger&logoColor=white" alt="Blog"/></a>
+  <a href="https://www.nexatech.org"><img src="https://img.shields.io/badge/WebSite-%232962a4.svg?style=plastic&logo=Google-Chrome&logoColor=white" alt="Website"/></a>
+</p>
 
 ---
 
-### 🌱 Actualmente aprendiendo  
-- Redes neuronales y aprendizaje profundo para análisis avanzados.  
-- Herramientas y frameworks innovadores como **D3.js**, **Plotly** y **Power BI**.  
+## 🧠 Skills & Tools
 
+### Languages  
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 
-### 📚 Publicaciones destacadas  
-**Atlas interactivo de programación en Python: una guía práctica para la era digital**
-*Publicación independiente*  
-ISBN: 978-628-01-6444-1, (e-book) 978-628-01-6504-2  
-DOI: [10.5281/zenodo.14497340](https://doi.org/10.5281/zenodo.14497340)
+### Data Science & BI  
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=plastic&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%2300407F.svg?style=plastic&logo=plotly&logoColor=white)
 
-
-**Computación cuántica: Avances, desafíos y nuevos paradigmas en criptografía, optimización y simulación de materiales**
-*Revista de Investigación y Negocios (Innova Sena), 2024* 
-ISSN: 3028-6956
-
-
-#### Disertante
-**V CONGRESO INTERNACIONAL VIRTUAL DE EDUCACION**  
-*Centro Latinoamericano de Investigación e Innovación Científica, 2024*
-ISSN: 3028-4155  
-DOI: [10.5281/zenodo.14396938](https://doi.org/10.5281/zenodo.14396938)
-
-
-**Desarrollo de prótesis infantil con tecnología de fabricación aditiva para amputaciones transradiales.**  
-*Revista de Investigación e Innovación en Salud (REDIIS), 2024.*  
-DOI: [10.23850/rediis.v7i7.5577](https://doi.org/10.23850/rediis.v7i7.5577) 
-
-
-**Características neuromusculares: cinemática y cinética en atletas universitarios practicantes de levantamiento de pesas.**  
-*Encuentros con semilleros, 2019.*  
-DOI: [10.15765/es.v1i1.1606](https://doi.org/10.15765/es.v1i1.1606)  
+### Tools  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📫 Contáctame  
-- **LinkedIn:** [Conéctate conmigo](https://www.linkedin.com/in/mbaeduleon/)  
-- **Sitio web:** [Explora mis servicios](www.nexatech.org)
-- **Blog:**[Explora mi divulgacion](https://cienciatecnologiayfuturo.blogspot.com/p/acerca-de.html) 
+## ⚡ Fun Fact  
+I led the data analysis for a **pediatric myoelectric hand prototype**, proving how tech can empower lives.
 
 ---
 
-### ⚡ Dato curioso  
-Lideré el análisis de datos para optimizar la funcionalidad de un prototipo de **mano mioeléctrica infantil**, demostrando cómo la tecnología puede transformar vidas.
-
----
-
-¡Hablemos de cómo podemos colaborar en proyectos desafiantes y transformar ideas en realidad! 🚀
-
-
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=mbaeduleon&theme=tokyonight_duo" alt="Eduardo's streak"/>
+</p>
