@@ -22,10 +22,8 @@
 </p>
 
 
-
 ## 👨‍🏫 Sobre mí
 Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctorando en Investigación en Ingeniería. Cuento con experiencia docente en educación superior, me especializo en **análisis de datos**, **machine learning** y **sistemas de inteligencia de negocios (BI)**. Me apasiona la innovación tecnológica, el impacto social y el desarrollo profesional de mis estudiantes y colaboradores.
-
 
 ## Áreas de experiencia 🧠 
 - Análisis cuantitativo y minería de datos
@@ -34,18 +32,15 @@ Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctoran
 - Desarrollo de soluciones BI para la toma de decisiones
 - Optimización de procesos educativos y tecnológicos
 
-
 ## Proyectos actuales 🔍 
 - Modelos predictivos y visualización avanzada en Power BI
 - Aplicaciones de ML en entornos educativos y de salud
 - Prótesis mioeléctricas infantiles con fabricación aditiva
 
-
 ## Me interesa colaborar en🤝 
 - Proyectos interdisciplinarios con IA, IoT y ciencia de datos
 - Transformación digital en educación y salud
 - Ciencia abierta, innovación social y gobierno de datos
-
 
 ## Publicaciones 📚 
 - **Atlas Interactivo de Programación en Python** — ISBN: 978-628-01-6444-1 — [DOI](https://doi.org/10.5281/zenodo.14497340)
@@ -53,7 +48,6 @@ Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctoran
 - **Prótesis Infantiles Avanzadas** — *REDIIS, 2024* — [DOI](https://doi.org/10.23850/rediis.v7i7.5577)
 - **Congreso Internacional Virtual de Educación** — [DOI](https://doi.org/10.5281/zenodo.14396938)
 - **Cinemática en Atletas Universitarios** — *Encuentros con Semilleros, 2019* — [DOI](https://doi.org/10.15765/es.v1i1.1606)
-
 
 ## Tech Stack 🧰 
 
@@ -77,7 +71,6 @@ Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctoran
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code)
-
 
 ## 🧪 Estadísticas GitHub
 ![Eduardo's Stats](https://github-readme-stats.vercel.app/api?username=eduardoleon9010&show_icons=true&theme=dark)
