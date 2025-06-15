@@ -3,8 +3,6 @@
   <img src="https://drive.google.com/uc?export=view&id=1DjyeoKc0GRE8WfFBWt8OR_mBe4Fl0_0j" width="100%" alt="Banner Tecnológico"/>
 </p>
 
-
-
 <h1 align="center">
   <a href="https://github.com/eduardoleon9010">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=Ingeniero+Inform%C3%A1tico+%7C+MBA+Alta+Direcci%C3%B3n+%7C+PhD+(en+curso);Cient%C3%ADfico+de+Datos+%7C+Educador+%7C+Innovador+Social;Liderando+proyectos+con+Machine+Learning+y+Tecnolog%C3%ADa+Educativa;Impactando+vidas+con+inteligencia+artificial+y+fabricaci%C3%B3n+aditiva" alt="Typing SVG" />
@@ -23,12 +21,11 @@
   </a>
 </p>
 
----
+
 
 ## 👨‍🏫 Sobre mí
 Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctorando en Investigación en Ingeniería. Cuento con experiencia docente en educación superior, me especializo en **análisis de datos**, **machine learning** y **sistemas de inteligencia de negocios (BI)**. Me apasiona la innovación tecnológica, el impacto social y el desarrollo profesional de mis estudiantes y colaboradores.
 
----
 
 ## Áreas de experiencia 🧠 
 - Análisis cuantitativo y minería de datos
