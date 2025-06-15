@@ -1,6 +1,6 @@
 <!-- Perfil Profesional de Eduardo León -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4E16AQFGppSB7FvqOw/profile-displaybackgroundimage-shrink_350_1400/0/1712872343707?e=1724284800&v=beta&t=Fq6k5Ub2Wm7pTV_Yh1H3QZ7ix77aSkDjWcMH1a3Oyjc" width="100%" alt="Banner Tecnológico"/>
+  <img src="[https://media.licdn.com/dms/image/D4E16AQFGppSB7FvqOw/profile-displaybackgroundimage-shrink_350_1400/0/1712872343707?e=1724284800&v=beta&t=Fq6k5Ub2Wm7pTV_Yh1H3QZ7ix77aSkDjWcMH1a3Oyjc" width="100%" alt="Banner Tecnológico](https://drive.google.com/file/d/1DjyeoKc0GRE8WfFBWt8OR_mBe4Fl0_0j/view?usp=sharing)"/>
 </p>
 
 <h1 align="center">
