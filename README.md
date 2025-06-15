@@ -1,83 +1,87 @@
-<!-- Encabezado destacado académico -->
-<h1 align="center" style="font-size:3em; color:#006699; font-family:Georgia,serif;">🚀 Eduardo León — Ingeniería, Ciencia de Datos e Innovación Tecnológica</h1>
-<p align="center">
-  <a href="https://www.nexatech.org" target="_blank">
-    <img src="https://img.shields.io/badge/Sitio%20Web-NexaTech-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mbaeduleon/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Con%C3%A9ctate-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://cienciatecnologiayfuturo.blogspot.com/p/acerca-de.html" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-Divulgaci%C3%B3n-orange?style=for-the-badge&logo=blogger&logoColor=white"/>
-  </a>
-</p>
+<!-- Perfil Profesional de Eduardo León -->
+<h1 align="center">¡Hola! Soy Eduardo León 👋</h1>
 
 <p align="center">
-  <img src="https://img.freepik.com/vector-premium/ilustracion-isometrica-internet-cursos-online-estudiante-aprendiendo-linea_151150-4303.jpg?w=740" width="700" alt="Academic Illustration">
+  <a href="https://www.nexatech.org">
+    <img src="https://img.shields.io/static/v1?label=|&message=Sitio+Web&color=blue&style=plastic&logo=Google-Chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mbaeduleon/">
+    <img src="https://img.shields.io/static/v1?label=|&message=LinkedIn&color=0A66C2&style=plastic&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://cienciatecnologiayfuturo.blogspot.com/p/acerca-de.html">
+    <img src="https://img.shields.io/static/v1?label=|&message=Blog&color=orange&style=plastic&logo=blogger&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🧭 Sobre mí
-🎓 **Ingeniero Informático**, con **MBA en Alta Dirección** y candidato a **Doctorado en Investigación en Ingeniería**.  
-👨‍🏫 Experiencia como docente universitario (2+ años), con enfoque en **Análisis de Datos**, **Machine Learning** y **Sistemas BI**.  
-🌎 Líder en proyectos de innovación social y educativa basados en tecnología.  
-💡 Apasionado por la educación digital, el desarrollo interdisciplinar y el impacto social.
+## 👨‍🏫 Sobre mí
+Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctorando en Investigación en Ingeniería. Cuento con experiencia docente en educación superior, me especializo en **análisis de datos**, **machine learning** y **sistemas de inteligencia de negocios (BI)**. Me apasiona la innovación tecnológica, el impacto social y el desarrollo profesional de mis estudiantes y colaboradores.
 
 ---
 
-## 🔬 Proyectos Actuales
-- 🔍 Modelos predictivos y tableros BI con analítica avanzada.  
-- 🤖 Aplicaciones de aprendizaje automático en educación y salud.  
-- 🦾 Prótesis infantiles avanzadas con tecnologías de fabricación aditiva.
+## 🧠 Áreas de Experiencia
+- Análisis cuantitativo y minería de datos
+- Modelado predictivo con Python y R
+- Visualización interactiva con herramientas modernas
+- Desarrollo de soluciones BI para la toma de decisiones
+- Optimización de procesos educativos y tecnológicos
 
 ---
 
-## 🤝 Colaboraciones Interesadas
-- Desafíos sociales y empresariales con **ML / Data Science**.  
-- Transformación educativa mediante tecnología.  
-- Proyectos en **IA, IoT** y **gobernanza de datos**.
+## 🔍 Proyectos Actuales
+- Modelos predictivos y visualización avanzada en Power BI
+- Aplicaciones de ML en entornos educativos y de salud
+- Prótesis mioeléctricas infantiles con fabricación aditiva
 
 ---
 
-## 📈 Aprendizajes Actuales
-- Redes neuronales y aprendizaje profundo con PyTorch y TensorFlow.  
-- Visualización interactiva con **D3.js**, **Plotly** y **Power BI**.
+## 🤝 Me interesa colaborar en
+- Proyectos interdisciplinarios con IA, IoT y ciencia de datos
+- Transformación digital en educación y salud
+- Ciencia abierta, innovación social y gobierno de datos
 
 ---
 
-## 📚 Publicaciones Relevantes
-- 📘 *Atlas Interactivo de Programación en Python* — ISBN: 978-628-01-6444-1 — [DOI](https://doi.org/10.5281/zenodo.14497340)  
-- ⚛️ *Computación cuántica: Nuevos paradigmas* — *Innova Sena, 2024* — ISSN: 3028-6956  
-- 🦿 *Prótesis infantiles con tecnología aditiva* — *REDIIS, 2024* — [DOI](https://doi.org/10.23850/rediis.v7i7.5577)  
-- 🎤 *Disertante – Congreso Internacional Virtual de Educación* — [DOI](https://doi.org/10.5281/zenodo.14396938)  
-- 🏋️ *Cinemática en atletas universitarios* — *Encuentros con Semilleros, 2019* — [DOI](https://doi.org/10.15765/es.v1i1.1606)
+## 📚 Publicaciones
+- **Atlas Interactivo de Programación en Python** — ISBN: 978-628-01-6444-1 — [DOI](https://doi.org/10.5281/zenodo.14497340)
+- **Computación Cuántica y Nuevos Paradigmas** — *Innova Sena, 2024* — ISSN: 3028-6956
+- **Prótesis Infantiles Avanzadas** — *REDIIS, 2024* — [DOI](https://doi.org/10.23850/rediis.v7i7.5577)
+- **Congreso Internacional Virtual de Educación** — [DOI](https://doi.org/10.5281/zenodo.14396938)
+- **Cinemática en Atletas Universitarios** — *Encuentros con Semilleros, 2019* — [DOI](https://doi.org/10.15765/es.v1i1.1606)
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🧰 Tech Stack
 
-### 🧑‍💻 Lenguajes de Programación
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 👨‍💻 Lenguajes de programación
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
+![R](https://img.shields.io/badge/R-05122A?style=flat&logo=r)
+![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)
+![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
 
-### 📊 Herramientas de Ciencia de Datos y Desarrollo
-![](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)
-![](https://img.shields.io/badge/Plotly-00407F?style=for-the-badge&logo=plotly&logoColor=white)
-![](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 📊 Ciencia de Datos y Visualización
+![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=pandas)
+![Plotly](https://img.shields.io/badge/Plotly-05122A?style=flat&logo=plotly)
+![Power BI](https://img.shields.io/badge/Power_BI-05122A?style=flat&logo=powerbi)
+![JupyterLab](https://img.shields.io/badge/JupyterLab-05122A?style=flat&logo=jupyter)
+![Google Colab](https://img.shields.io/badge/Colaboratory-05122A?style=flat&logo=google-colab)
+![Anaconda](https://img.shields.io/badge/Anaconda-05122A?style=flat&logo=anaconda)
 
-### 🧰 Herramientas de Desarrollo
-![](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🛠️ Herramientas
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code)
 
 ---
 
-## ✨ Curiosidad Interesante
-Conduje el análisis de datos para una **mano mioeléctrica infantil prototipo**, demostrando el potencial transformador de la tecnología en la inclusión y la salud 💡🦿
+## 🧪 Estadísticas GitHub
+![Eduardo's Stats](https://github-readme-stats.vercel.app/api?username=mbaeduleon&show_icons=true&theme=dark)
+![Eduardo's Streak](https://github-readme-streak-stats.herokuapp.com?user=mbaeduleon&theme=dark)
+![Eduardo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbaeduleon&theme=react-dark&area=true)
+
+---
+
+Gracias por visitar mi perfil. ¡Conectemos y creemos impacto con tecnología! 🚀
