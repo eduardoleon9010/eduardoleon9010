@@ -35,10 +35,12 @@ Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctoran
 - Optimización de procesos educativos y tecnológicos
 
 
-## 🔍 Proyectos actuales
-- Modelos predictivos y visualización avanzada en Power BI
-- Aplicaciones de ML en entornos educativos y de salud
-- Prótesis mioeléctricas infantiles con fabricación aditiva
+## 🚀 Proyectos actuales
+
+- 🎓 Formación en desarrollo de software, análisis de datos, ciencia de datos e inteligencia artificial, orientada a resolver desafíos en contextos educativos y productivos.
+- 📊 Integración de Google Sheets y Looker Studio para el análisis de datos deportivos, combinando ciencia del deporte y herramientas accesibles con impacto positivo en la salud y el rendimiento.
+- 🤖 Guía en el prototipado aplicado robótica, sensores y algoritmos de control como experiencia formativa multidisciplinaria.
+
 
 
 ## 🤝 Me interesa colaborar en
@@ -66,6 +68,7 @@ Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctoran
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
 ![Arduino](https://img.shields.io/badge/Arduino-05122A?style=flat&logo=arduino)
 ![MicroPython](https://img.shields.io/badge/MicroPython-05122A?style=flat&logo=python&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-05122A?style=flat&logo=julia)
 
 ### 📊 Ciencia de datos y visualización
 ![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=pandas)
@@ -74,6 +77,9 @@ Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctoran
 ![JupyterLab](https://img.shields.io/badge/JupyterLab-05122A?style=flat&logo=jupyter)
 ![Google Colab](https://img.shields.io/badge/Colaboratory-05122A?style=flat&logo=google-colab)
 ![Anaconda](https://img.shields.io/badge/Anaconda-05122A?style=flat&logo=anaconda)
+![Pluto.jl](https://img.shields.io/badge/Pluto.jl-05122A?style=flat&logo=julia)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-05122A?style=flat&logo=google-sheets)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-05122A?style=flat&logo=looker)
 
 ### 🛠️ Herramientas
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
@@ -81,6 +87,7 @@ Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctoran
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-05122A?style=flat&logo=arduino)
 ![Thonny](https://img.shields.io/badge/Thonny-05122A?style=flat&logo=python&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-05122A?style=flat&logo=autodesk)
 
 
 ## 🧪 Estadísticas GitHub
