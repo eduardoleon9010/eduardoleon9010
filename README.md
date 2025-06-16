@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <a href="https://github.com/eduardoleon9010">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=Ingeniero+Inform%C3%A1tico+%7C+Magister+Alta+Direcci%C3%B3n+(MBA)%7C+PhD+(c);Cient%C3%ADfico+de+Datos+%7C+Educador+%7C+Innovador+Social;Liderando+proyectos+con+Machine+Learning+y+Tecnolog%C3%ADa+Educativa;Impactando+vidas+con+inteligencia+artificial+y+fabricaci%C3%B3n+aditiva" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=Computer+Engineer+%7C+MBA+in+Senior+Management+%7C+PhD+(c);Data+Scientist+%7C+Educator+%7C+Social+Innovator;Leading+projects+with+Machine+Learning+and+EdTech;Impacting+lives+through+AI+and+Additive+Manufacturing" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -22,60 +22,89 @@
   </a>
 </p>
 
-<h2 align="center">👨‍🏫 About Me / Sobre mí</h2>
 
-<p>
-  I am a <strong>Computer Engineer</strong>, with an <strong>MBA in Senior Management</strong> and currently a <strong>PhD(c) in Engineering Research</strong>.<br>
-  Tengo experiencia como docente en educación superior y me especializo en <em>data analysis</em>, <em>machine learning</em> y <em>Business Intelligence (BI)</em>.<br>
-  I’m passionate about <strong>technological innovation</strong>, <strong>social impact</strong>, and the <strong>professional growth of students and collaborators</strong>.
-</p>
-
-<h2>🧠 Areas of Expertise / Áreas de experiencia</h2>
-
-<ul>
-  <li><strong>📊 Quantitative Analysis & Data Mining</strong><br>
-    Exploring and modeling large datasets to discover meaningful patterns in educational, social, and sports domains.
-  </li>
-  <li><strong>🤖 Predictive Modeling with Python & R</strong><br>
-    Implementación de algoritmos de <em>machine learning</em> y estadística aplicada para predicción de resultados y soporte a la toma de decisiones.
-  </li>
-  <li><strong>📈 Interactive Data Visualization</strong><br>
-    Dashboard development using <strong>Power BI</strong>, <strong>Plotly</strong>, <strong>Looker Studio</strong>, and <strong>Google Sheets</strong> for dynamic analysis and clear data storytelling.
-  </li>
-  <li><strong>🧪 Computational Physics Modeling (Julia & Python)</strong><br>
-    Simulation of physical phenomena and differential equation solving using advanced numerical methods to understand real-world systems.
-  </li>
-  <li><strong>🧑‍🏫 Educational & Technological Process Optimization</strong><br>
-    Aplicación de tecnologías emergentes en contextos de formación, prototipado técnico (vehículos autónomos, sensores), e integración de IA para fortalecer el aprendizaje y la gestión del conocimiento.
-  </li>
-</ul>
-
-<h2>🚀 Current Projects / Proyectos actuales</h2>
-
-<ul>
-  <li>🎓 <strong>Software development training</strong> focused on <em>data science, AI, and analytics</em> for solving challenges in academic and productive sectors.</li>
-  <li>📊 <strong>Integration of Google Sheets & Looker Studio</strong> in sports science to analyze data and promote health optimization through accessible digital tools.</li>
-  <li>🤖 <strong>Prototyping guidance</strong> in robotics, sensors, and control algorithms as a multidisciplinary learning experience.</li>
-</ul>
-
-<h2>🤝 I’m open to collaborate on / Me interesa colaborar en</h2>
-
-<ul>
-  <li>Interdisciplinary projects involving <strong>AI, IoT, and data science</strong></li>
-  <li><strong>Digital transformation</strong> in education and healthcare</li>
-  <li><strong>Open science</strong>, <strong>social innovation</strong>, and <strong>data governance</strong></li>
-</ul>
-
-<h2>📚 Publications</h2>
-
-<ul>
-  <li><strong>Atlas Interactivo de Programación en Python</strong> — ISBN: 978-628-01-6444-1 — <a href="https://doi.org/10.5281/zenodo.14497340">DOI</a></li>
-  <li><strong>Computación Cuántica y Nuevos Paradigmas</strong> — <em>Innova Sena, 2024</em> — ISSN: 3028-6956</li>
-  <li><strong>Prótesis Infantiles Avanzadas</strong> — <em>REDIIS, 2024</em> — <a href="https://doi.org/10.23850/rediis.v7i7.5577">DOI</a></li>
-  <li><strong>Congreso Internacional Virtual de Educación</strong> — <a href="https://doi.org/10.5281/zenodo.14396938">DOI</a></li>
-  <li><strong>Cinemática en Atletas Universitarios</strong> — <em>Encuentros con Semilleros, 2019</em> — <a href="https://doi.org/10.15765/es.v1i1.1606">DOI</a></li>
-</ul>
-
-<p align="center"><em>Thanks for visiting my profile! / ¡Gracias por visitar mi perfil!<br>Let’s connect and create impact with technology 🚀</em></p>
+## 👨‍🏫 Sobre mí
+Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctorando en Investigación en Ingeniería. Cuento con experiencia docente en educación superior, me especializo en análisis de datos, machine learning y sistemas de inteligencia de negocios (BI). Me apasiona la innovación tecnológica, el impacto social y el desarrollo profesional de mis estudiantes y colaboradores.
 
 
+## 🧠 Áreas de experiencia
+
+- **Análisis cuantitativo y minería de datos**  📊 
+  Exploración, depuración y modelado de grandes volúmenes de datos para obtener patrones significativos en contextos educativos, sociales y deportivos.
+
+- **Modelado predictivo con Python y R**  🤖 
+  Implementación de algoritmos de aprendizaje automático (ML) y estadística aplicada para predicción de resultados y apoyo a la toma de decisiones.
+
+-  **Visualización interactiva con herramientas modernas**  📈
+  Desarrollo de dashboards en **Power BI**, **Plotly**, **Looker Studio** y **Google Sheets**, enfocados en análisis dinámico y comprensión efectiva de datos.
+
+- **Modelado en física computacional con Julia y Python** 🧪  
+  Simulación de fenómenos físicos y resolución de ecuaciones diferenciales utilizando técnicas numéricas avanzadas para explorar dinámicas complejas en sistemas reales y experimentales.
+
+- **Optimización de procesos educativos y tecnológicos**   🧑‍🏫
+  Aplicación de tecnologías emergentes en procesos formativos, prototipado técnico (carros autónomos, sensores), e integración de IA para mejorar el aprendizaje y la gestión del conocimiento.
+
+
+
+## 🚀 Proyectos actuales
+
+- 🎓 Formación en desarrollo de software, análisis de datos, ciencia de datos e inteligencia artificial, orientada a resolver desafíos en contextos educativos y productivos.
+- 📊 Integración de Google Sheets y Looker Studio para el análisis de datos deportivos, combinando ciencia del deporte y herramientas accesibles con impacto positivo en la salud y el rendimiento.
+- 🤖 Guía en el prototipado aplicado a la robótica, sensores y algoritmos de control como experiencia formativa multidisciplinaria.
+
+
+
+## 🤝 Me interesa colaborar en
+- Proyectos interdisciplinarios con IA, IoT y ciencia de datos
+- Transformación digital en educación y salud
+- Ciencia abierta, innovación social y gobierno de datos
+
+
+## 📚 Publicaciones
+- **Atlas Interactivo de Programación en Python** — ISBN: 978-628-01-6444-1 — [DOI](https://doi.org/10.5281/zenodo.14497340)
+- **Computación Cuántica y Nuevos Paradigmas** — *Innova Sena, 2024* — ISSN: 3028-6956
+- **Prótesis Infantiles Avanzadas** — *REDIIS, 2024* — [DOI](https://doi.org/10.23850/rediis.v7i7.5577)
+- **Congreso Internacional Virtual de Educación** — [DOI](https://doi.org/10.5281/zenodo.14396938)
+- **Cinemática en Atletas Universitarios** — *Encuentros con Semilleros, 2019* — [DOI](https://doi.org/10.15765/es.v1i1.1606)
+
+
+## 🧰 Tech Stack
+
+### 👨‍💻 Lenguajes de programación
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
+![R](https://img.shields.io/badge/R-05122A?style=flat&logo=r)
+![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)
+![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
+![Arduino](https://img.shields.io/badge/Arduino-05122A?style=flat&logo=arduino)
+![MicroPython](https://img.shields.io/badge/MicroPython-05122A?style=flat&logo=python&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-05122A?style=flat&logo=julia)
+
+### 📊 Ciencia de datos y visualización
+![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=pandas)
+![Plotly](https://img.shields.io/badge/Plotly-05122A?style=flat&logo=plotly)
+![Power BI](https://img.shields.io/badge/Power_BI-05122A?style=flat&logo=powerbi)
+![JupyterLab](https://img.shields.io/badge/JupyterLab-05122A?style=flat&logo=jupyter)
+![Google Colab](https://img.shields.io/badge/Colaboratory-05122A?style=flat&logo=google-colab)
+![Anaconda](https://img.shields.io/badge/Anaconda-05122A?style=flat&logo=anaconda)
+![Pluto.jl](https://img.shields.io/badge/Pluto.jl-05122A?style=flat&logo=julia)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-05122A?style=flat&logo=google-sheets)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-05122A?style=flat&logo=looker)
+
+### 🛠️ Herramientas
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-05122A?style=flat&logo=arduino)
+![Thonny](https://img.shields.io/badge/Thonny-05122A?style=flat&logo=python&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-05122A?style=flat&logo=autodesk)
+
+
+## 🧪 Estadísticas GitHub
+![Eduardo's Stats](https://github-readme-stats.vercel.app/api?username=eduardoleon9010&show_icons=true&theme=dark)
+![Eduardo's Streak](https://github-readme-streak-stats.herokuapp.com?user=eduardoleon9010&theme=dark)
+![Eduardo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardoleon9010&theme=react-dark&area=true)
+
+
+Gracias por visitar mi perfil.           ¡Conectemos y creemos impacto con tecnología! 🚀
