@@ -23,49 +23,81 @@
 </p>
 
 
-## 👨‍🏫 Sobre mí
-Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctorando en Investigación en Ingeniería. Cuento con experiencia docente en educación superior, me especializo en análisis de datos, machine learning y sistemas de inteligencia de negocios (BI). Me apasiona la innovación tecnológica, el impacto social y el desarrollo profesional de mis estudiantes y colaboradores.
+## 👨‍🏫 Sobre mí | About Me
 
+Soy **Ingeniero Informático**, con un **MBA en Alta Dirección**, y actualmente curso un **doctorado en Investigación en Ingeniería**.  
+I'm a **Computer Engineer** with an **MBA in Senior Management**, currently pursuing a **PhD in Engineering Research**.
 
-## 🧠 Áreas de experiencia
+Cuento con experiencia docente en educación superior y me especializo en **análisis de datos**, **aprendizaje automático** y **sistemas de inteligencia de negocios (BI)**.  
+I have experience teaching in higher education and specialize in **data analysis**, **machine learning**, and **business intelligence systems (BI)**.
 
-- **Análisis cuantitativo y minería de datos**  📊 
-  Exploración, depuración y modelado de grandes volúmenes de datos para obtener patrones significativos en contextos educativos, sociales y deportivos.
+Me apasiona la **innovación tecnológica**, el **impacto social** y el **desarrollo profesional** de mis estudiantes y colaboradores.  
+I'm passionate about **technological innovation**, **social impact**, and the **professional development** of students and colleagues.
 
-- **Modelado predictivo con Python y R**  🤖 
-  Implementación de algoritmos de aprendizaje automático (ML) y estadística aplicada para predicción de resultados y apoyo a la toma de decisiones.
+---
 
--  **Visualización interactiva con herramientas modernas**  📈
-  Desarrollo de dashboards en **Power BI**, **Plotly**, **Looker Studio** y **Google Sheets**, enfocados en análisis dinámico y comprensión efectiva de datos.
+## 🧠 Áreas de experiencia | Areas of Expertise
 
-- **Modelado en física computacional con Julia y Python** 🧪  
-  Simulación de fenómenos físicos y resolución de ecuaciones diferenciales utilizando técnicas numéricas avanzadas para explorar dinámicas complejas en sistemas reales y experimentales.
+- **📊 Análisis cuantitativo y minería de datos | Quantitative Analysis & Data Mining**  
+  Identificación de patrones significativos a partir de grandes volúmenes de datos en contextos educativos, sociales y deportivos.  
+  Identifying meaningful patterns from large datasets in educational, social, and sports contexts.
 
-- **Optimización de procesos educativos y tecnológicos**   🧑‍🏫
-  Aplicación de tecnologías emergentes en procesos formativos, prototipado técnico (carros autónomos, sensores), e integración de IA para mejorar el aprendizaje y la gestión del conocimiento.
+- **🤖 Modelado predictivo con Python y R | Predictive Modeling with Python & R**  
+  Aplicación de algoritmos de *machine learning* y estadística para mejorar decisiones basadas en datos.  
+  Applying *machine learning* algorithms and statistical models to support data-driven decision making.
 
+- **📈 Visualización interactiva | Interactive Data Visualization**  
+  Desarrollo de dashboards con **Power BI**, **Plotly**, **Looker Studio** y **Google Sheets** para análisis dinámico.  
+  Building dynamic dashboards using **Power BI**, **Plotly**, **Looker Studio**, and **Google Sheets** for effective analysis.
 
+- **🧪 Modelado en física computacional | Computational Physics Modeling**  
+  Simulación de fenómenos físicos en **Julia** y **Python**, resolviendo EDOs y PDEs con técnicas numéricas avanzadas.  
+  Simulating physical phenomena using **Julia** and **Python**, solving ODEs and PDEs through advanced numerical methods.
 
-## 🚀 Proyectos actuales
+- **🧑‍🏫 Optimización educativa y tecnológica | Educational & Technological Optimization**  
+  Integración de IA, robótica y sensores en procesos formativos y gestión del conocimiento.  
+  Integrating AI, robotics, and sensors into educational processes and knowledge management.
 
-- 🎓 Formación en desarrollo de software, análisis de datos, ciencia de datos e inteligencia artificial, orientada a resolver desafíos en contextos educativos y productivos.
-- 📊 Integración de Google Sheets y Looker Studio para el análisis de datos deportivos, combinando ciencia del deporte y herramientas accesibles con impacto positivo en la salud y el rendimiento.
-- 🤖 Guía en el prototipado aplicado a la robótica, sensores y algoritmos de control como experiencia formativa multidisciplinaria.
+---
 
+## 🚀 Proyectos actuales | Current Projects
 
+- 🎓 Formación en desarrollo de software, ciencia de datos e IA aplicada.  
+  Training in software development, data science, and applied AI.
 
-## 🤝 Me interesa colaborar en
-- Proyectos interdisciplinarios con IA, IoT y ciencia de datos
-- Transformación digital en educación y salud
-- Ciencia abierta, innovación social y gobierno de datos
+- 📊 Análisis deportivo con herramientas accesibles como Looker Studio y Google Sheets.  
+  Sports analytics using accessible tools like Looker Studio and Google Sheets.
 
+- 🤖 Prototipado con sensores, robótica y algoritmos de control para aprendizaje STEM.  
+  Prototyping with sensors, robotics, and control algorithms for STEM learning.
 
-## 📚 Publicaciones
-- **Atlas Interactivo de Programación en Python** — ISBN: 978-628-01-6444-1 — [DOI](https://doi.org/10.5281/zenodo.14497340)
-- **Computación Cuántica y Nuevos Paradigmas** — *Innova Sena, 2024* — ISSN: 3028-6956
-- **Prótesis Infantiles Avanzadas** — *REDIIS, 2024* — [DOI](https://doi.org/10.23850/rediis.v7i7.5577)
-- **Congreso Internacional Virtual de Educación** — [DOI](https://doi.org/10.5281/zenodo.14396938)
-- **Cinemática en Atletas Universitarios** — *Encuentros con Semilleros, 2019* — [DOI](https://doi.org/10.15765/es.v1i1.1606)
+---
+
+## 🤝 Me interesa colaborar en | I’m Open to Collaborate On
+
+- Proyectos con IA, IoT, ciencia de datos y análisis educativo.  
+  Projects involving AI, IoT, data science, and educational analytics.
+
+- Transformación digital en salud, educación e innovación pública.  
+  Digital transformation in health, education, and public innovation.
+
+- Ciencia abierta, innovación social y gobierno del dato.  
+  Open science, social innovation, and data governance.
+
+---
+
+## 📚 Publicaciones | Publications
+
+- 📘 **Atlas Interactivo de Programación en Python** — ISBN: 978-628-01-6444-1 — [DOI](https://doi.org/10.5281/zenodo.14497340)  
+- 🔬 **Computación Cuántica y Nuevos Paradigmas** — *Innova Sena, 2024* — ISSN: 3028-6956  
+- 🦾 **Prótesis Infantiles Avanzadas** — *REDIIS, 2024* — [DOI](https://doi.org/10.23850/rediis.v7i7.5577)  
+- 🌐 **Congreso Internacional Virtual de Educación** — [DOI](https://doi.org/10.5281/zenodo.14396938)  
+- 🏃‍♂️ **Cinemática en Atletas Universitarios** — *Encuentros con Semilleros, 2019* — [DOI](https://doi.org/10.15765/es.v1i1.1606)
+
+---
+
+<p align="center"><em>“La ciencia de datos no solo descubre patrones en la información, sino también oportunidades para transformar realidades.”  
+“Data science not only finds patterns in information, but reveals opportunities to transform realities.”</em></p>
 
 
 ## 🧰 Tech Stack
