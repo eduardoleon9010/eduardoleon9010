@@ -25,53 +25,50 @@
 
 ## 👨‍🏫 Sobre mí | About Me
 
-Soy **Ingeniero Informático**, con un **MBA en Alta Dirección**, y actualmente curso un **doctorado en Investigación en Ingeniería**.  
-I'm a **Computer Engineer** with an **MBA in Senior Management**, currently pursuing a **PhD in Engineering Research**.
+Soy Ingeniero Informático, con un MBA en Alta Dirección, y actualmente candidato a PhD en Investigación en Ingeniería.  
+I am a Computer Engineer with an MBA in Senior Management and currently a PhD candidate in Engineering Research
 
-Cuento con experiencia docente en educación superior y me especializo en **análisis de datos**, **aprendizaje automático** y **sistemas de inteligencia de negocios (BI)**.  
-I have experience teaching in higher education and specialize in **data analysis**, **machine learning**, and **business intelligence systems (BI)**.
+Cuento con experiencia docente en educación superior y me especializo en análisis de datos, aprendizaje automático y sistemas de inteligencia de negocios (BI).  
+I have experience teaching in higher education and specialize in data analysis, machine learning, and business intelligence systems (BI).
 
-Me apasiona la **innovación tecnológica**, el **impacto social** y el **desarrollo profesional** de mis estudiantes y colaboradores.  
-I'm passionate about **technological innovation**, **social impact**, and the **professional development** of students and colleagues.
+Me apasiona la innovación tecnológica, el **impacto social** y el desarrollo profesional de mis estudiantes y colaboradores.  
+I'm passionate about technological innovation, social impact, and the professional development of students and colleagues.
 
----
 
 ## 🧠 Áreas de experiencia | Areas of Expertise
 
-- **📊 Análisis cuantitativo y minería de datos | Quantitative Analysis & Data Mining**  
+- **Análisis cuantitativo y minería de datos | Quantitative Analysis & Data Mining**  📊 
   Identificación de patrones significativos a partir de grandes volúmenes de datos en contextos educativos, sociales y deportivos.  
   Identifying meaningful patterns from large datasets in educational, social, and sports contexts.
 
-- **🤖 Modelado predictivo con Python y R | Predictive Modeling with Python & R**  
+- **Modelado predictivo con Python y R | Predictive Modeling with Python & R**  🤖 
   Aplicación de algoritmos de *machine learning* y estadística para mejorar decisiones basadas en datos.  
   Applying *machine learning* algorithms and statistical models to support data-driven decision making.
 
-- **📈 Visualización interactiva | Interactive Data Visualization**  
+- **Visualización interactiva | Interactive Data Visualization**  📈 
   Desarrollo de dashboards con **Power BI**, **Plotly**, **Looker Studio** y **Google Sheets** para análisis dinámico.  
   Building dynamic dashboards using **Power BI**, **Plotly**, **Looker Studio**, and **Google Sheets** for effective analysis.
 
-- **🧪 Modelado en física computacional | Computational Physics Modeling**  
+- **Modelado en física computacional | Computational Physics Modeling**  🧪 
   Simulación de fenómenos físicos en **Julia** y **Python**, resolviendo EDOs y PDEs con técnicas numéricas avanzadas.  
   Simulating physical phenomena using **Julia** and **Python**, solving ODEs and PDEs through advanced numerical methods.
 
-- **🧑‍🏫 Optimización educativa y tecnológica | Educational & Technological Optimization**  
+- **Optimización educativa y tecnológica | Educational & Technological Optimization** 🧑‍🏫  
   Integración de IA, robótica y sensores en procesos formativos y gestión del conocimiento.  
   Integrating AI, robotics, and sensors into educational processes and knowledge management.
 
----
 
 ## 🚀 Proyectos actuales | Current Projects
 
-- 🎓 Formación en desarrollo de software, ciencia de datos e IA aplicada.  
+- Formación en desarrollo de software, ciencia de datos e IA aplicada.  🎓 
   Training in software development, data science, and applied AI.
 
-- 📊 Análisis deportivo con herramientas accesibles como Looker Studio y Google Sheets.  
+- Análisis deportivo con herramientas accesibles como Looker Studio y Google Sheets. 📊  
   Sports analytics using accessible tools like Looker Studio and Google Sheets.
 
-- 🤖 Prototipado con sensores, robótica y algoritmos de control para aprendizaje STEM.  
+- Prototipado con sensores, robótica y algoritmos de control para aprendizaje STEM.  🤖 
   Prototyping with sensors, robotics, and control algorithms for STEM learning.
 
----
 
 ## 🤝 Me interesa colaborar en | I’m Open to Collaborate On
 
@@ -84,7 +81,6 @@ I'm passionate about **technological innovation**, **social impact**, and the **
 - Ciencia abierta, innovación social y gobierno del dato.  
   Open science, social innovation, and data governance.
 
----
 
 ## 📚 Publicaciones | Publications
 
@@ -93,11 +89,6 @@ I'm passionate about **technological innovation**, **social impact**, and the **
 - 🦾 **Prótesis Infantiles Avanzadas** — *REDIIS, 2024* — [DOI](https://doi.org/10.23850/rediis.v7i7.5577)  
 - 🌐 **Congreso Internacional Virtual de Educación** — [DOI](https://doi.org/10.5281/zenodo.14396938)  
 - 🏃‍♂️ **Cinemática en Atletas Universitarios** — *Encuentros con Semilleros, 2019* — [DOI](https://doi.org/10.15765/es.v1i1.1606)
-
----
-
-<p align="center"><em>“La ciencia de datos no solo descubre patrones en la información, sino también oportunidades para transformar realidades.”  
-“Data science not only finds patterns in information, but reveals opportunities to transform realities.”</em></p>
 
 
 ## 🧰 Tech Stack
@@ -139,4 +130,5 @@ I'm passionate about **technological innovation**, **social impact**, and the **
 ![Eduardo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardoleon9010&theme=react-dark&area=true)
 
 
-Gracias por visitar mi perfil.           ¡Conectemos y creemos impacto con tecnología! 🚀
+<p align="center"><em>“La ciencia de datos no solo descubre patrones en la información, sino también oportunidades para transformar realidades.”  
+“Data science not only finds patterns in information, but reveals opportunities to transform realities.”</em></p>
