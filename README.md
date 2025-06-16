@@ -28,18 +28,29 @@ Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctoran
 
 
 ## 🧠 Áreas de experiencia
-- Análisis cuantitativo y minería de datos
-- Modelado predictivo con Python y R
-- Visualización interactiva con herramientas modernas
-- Desarrollo de soluciones BI para la toma de decisiones
-- Optimización de procesos educativos y tecnológicos
+
+- **Análisis cuantitativo y minería de datos**  📊 
+  Exploración, depuración y modelado de grandes volúmenes de datos para obtener patrones significativos en contextos educativos, sociales y deportivos.
+
+- **Modelado predictivo con Python y R**  🤖 
+  Implementación de algoritmos de aprendizaje automático (ML) y estadística aplicada para predicción de resultados y apoyo a la toma de decisiones.
+
+-  **Visualización interactiva con herramientas modernas**  📈
+  Desarrollo de dashboards en **Power BI**, **Plotly**, **Looker Studio** y **Google Sheets**, enfocados en análisis dinámico y comprensión efectiva de datos.
+
+- **Modelado en física computacional con Julia y Python** 🧪  
+  Simulación de fenómenos físicos y resolución de ecuaciones diferenciales utilizando técnicas numéricas avanzadas para explorar dinámicas complejas en sistemas reales y experimentales.
+
+- **Optimización de procesos educativos y tecnológicos**   🧑‍🏫
+  Aplicación de tecnologías emergentes en procesos formativos, prototipado técnico (carros autónomos, sensores), e integración de IA para mejorar el aprendizaje y la gestión del conocimiento.
+
 
 
 ## 🚀 Proyectos actuales
 
 - 🎓 Formación en desarrollo de software, análisis de datos, ciencia de datos e inteligencia artificial, orientada a resolver desafíos en contextos educativos y productivos.
 - 📊 Integración de Google Sheets y Looker Studio para el análisis de datos deportivos, combinando ciencia del deporte y herramientas accesibles con impacto positivo en la salud y el rendimiento.
-- 🤖 Guía en el prototipado aplicado robótica, sensores y algoritmos de control como experiencia formativa multidisciplinaria.
+- 🤖 Guía en el prototipado aplicado a la robótica, sensores y algoritmos de control como experiencia formativa multidisciplinaria.
 
 
 
@@ -96,5 +107,5 @@ Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctoran
 ![Eduardo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardoleon9010&theme=react-dark&area=true)
 
 
-Gracias por visitar mi perfil. ¡Conectemos y creemos impacto con tecnología! 🚀
+Gracias por visitar mi perfil.           ¡Conectemos y creemos impacto con tecnología! 🚀
 
