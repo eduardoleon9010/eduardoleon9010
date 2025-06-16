@@ -64,6 +64,8 @@ Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctoran
 ![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
+![Arduino](https://img.shields.io/badge/Arduino-05122A?style=flat&logo=arduino)
+![MicroPython](https://img.shields.io/badge/MicroPython-05122A?style=flat&logo=python&logoColor=white)
 
 ### 📊 Ciencia de datos y visualización
 ![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=pandas)
@@ -77,6 +79,8 @@ Soy Ingeniero Informático, con un MBA en Alta Dirección y actualmente doctoran
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-05122A?style=flat&logo=arduino)
+![Thonny](https://img.shields.io/badge/Thonny-05122A?style=flat&logo=python&logoColor=white)
 
 
 ## 🧪 Estadísticas GitHub
