@@ -84,11 +84,11 @@ I'm passionate about technological innovation, social impact, and the profession
 
 ##  Publicaciones | Publications
 
-    **Atlas Interactivo de Programación en Python** — ISBN: 978-628-01-6444-1 — [DOI](https://doi.org/10.5281/zenodo.14497340)  
-    **Computación Cuántica y Nuevos Paradigmas** — *Innova Sena, 2024* — ISSN: 3028-6956  
-    **Prótesis Infantiles Avanzadas** — *REDIIS, 2024* — [DOI](https://doi.org/10.23850/rediis.v7i7.5577)  
-    **Congreso Internacional Virtual de Educación** — [DOI](https://doi.org/10.5281/zenodo.14396938)  
-    **Cinemática en Atletas Universitarios** — *Encuentros con Semilleros, 2019* — [DOI](https://doi.org/10.15765/es.v1i1.1606)
+  -> **Atlas Interactivo de Programación en Python** — ISBN: 978-628-01-6444-1 — [DOI](https://doi.org/10.5281/zenodo.14497340)  
+  ->  **Computación Cuántica y Nuevos Paradigmas** — *Innova Sena, 2024* — ISSN: 3028-6956  
+  ->  **Prótesis Infantiles Avanzadas** — *REDIIS, 2024* — [DOI](https://doi.org/10.23850/rediis.v7i7.5577)  
+  ->  **Congreso Internacional Virtual de Educación** — [DOI](https://doi.org/10.5281/zenodo.14396938)  
+  -> **Cinemática en Atletas Universitarios** — *Encuentros con Semilleros, 2019* — [DOI](https://doi.org/10.15765/es.v1i1.1606)
 
 
 ##  Tech Stack
