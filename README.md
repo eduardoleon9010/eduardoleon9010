@@ -37,58 +37,58 @@ I'm passionate about technological innovation, social impact, and the profession
 
 ## Áreas de experiencia | Areas of Expertise
 
- **Análisis cuantitativo y minería de datos | Quantitative Analysis & Data Mining**   
+   **Análisis cuantitativo y minería de datos | Quantitative Analysis & Data Mining**   
   Identificación de patrones significativos a partir de grandes volúmenes de datos en contextos educativos, sociales y deportivos.  
   Identifying meaningful patterns from large datasets in educational, social, and sports contexts.
 
- **Modelado predictivo con Python y R | Predictive Modeling with Python & R**   
+   **Modelado predictivo con Python y R | Predictive Modeling with Python & R**   
   Aplicación de algoritmos de *machine learning* y estadística para mejorar decisiones basadas en datos.  
   Applying *machine learning* algorithms and statistical models to support data-driven decision making.
 
- **Visualización interactiva | Interactive Data Visualization**  📈
+   **Visualización interactiva | Interactive Data Visualization**  
   Desarrollo de dashboards con **Power BI**, **Plotly**, **Looker Studio** y **Google Sheets** para análisis dinámico.  
   Building dynamic dashboards using **Power BI**, **Plotly**, **Looker Studio**, and **Google Sheets** for effective analysis.
 
- **Modelado en física computacional | Computational Physics Modeling**  🧪
+   **Modelado en física computacional | Computational Physics Modeling**  
   Simulación de fenómenos físicos en **Julia** y **Python**, resolviendo EDOs y PDEs con técnicas numéricas avanzadas.  
   Simulating physical phenomena using **Julia** and **Python**, solving ODEs and PDEs through advanced numerical methods.
 
-- **Optimización educativa y tecnológica | Educational & Technological Optimization**  
+   **Optimización educativa y tecnológica | Educational & Technological Optimization**  
   Integración de IA, robótica y sensores en procesos formativos y gestión del conocimiento.  
   Integrating AI, robotics, and sensors into educational processes and knowledge management.
 
 
 ##  Proyectos actuales | Current Projects
 
- Formación en desarrollo de software, ciencia de datos e IA aplicada.  
-  Training in software development, data science, and applied AI.
+   Formación en desarrollo de software, ciencia de datos e IA aplicada.  
+    Training in software development, data science, and applied AI.
 
- Análisis deportivo con herramientas accesibles como Looker Studio y Google Sheets.  
-  Sports analytics using accessible tools like Looker Studio and Google Sheets.
+   Análisis deportivo con herramientas accesibles como Looker Studio y Google Sheets.  
+    Sports analytics using accessible tools like Looker Studio and Google Sheets.
 
- Prototipado con sensores, robótica y algoritmos de control para aprendizaje STEM.   
-  Prototyping with sensors, robotics, and control algorithms for STEM learning.
+   Prototipado con sensores, robótica y algoritmos de control para aprendizaje STEM.   
+    Prototyping with sensors, robotics, and control algorithms for STEM learning.
 
 
 ##  Me interesa colaborar en | I’m Open to Collaborate On
 
- Proyectos con IA, IoT, ciencia de datos y análisis educativo.  
-  Projects involving AI, IoT, data science, and educational analytics.
+   Proyectos con IA, IoT, ciencia de datos y análisis educativo.  
+    Projects involving AI, IoT, data science, and educational analytics.
 
- Transformación digital en salud, educación e innovación pública.  
-  Digital transformation in health, education, and public innovation.
+   Transformación digital en salud, educación e innovación pública.  
+    Digital transformation in health, education, and public innovation.
 
- Ciencia abierta, innovación social y gobierno del dato.  
-  Open science, social innovation, and data governance.
+   Ciencia abierta, innovación social y gobierno del dato.  
+    Open science, social innovation, and data governance.
 
 
 ##  Publicaciones | Publications
 
-  **Atlas Interactivo de Programación en Python** — ISBN: 978-628-01-6444-1 — [DOI](https://doi.org/10.5281/zenodo.14497340)  
-  **Computación Cuántica y Nuevos Paradigmas** — *Innova Sena, 2024* — ISSN: 3028-6956  
-  **Prótesis Infantiles Avanzadas** — *REDIIS, 2024* — [DOI](https://doi.org/10.23850/rediis.v7i7.5577)  
-  **Congreso Internacional Virtual de Educación** — [DOI](https://doi.org/10.5281/zenodo.14396938)  
-  **Cinemática en Atletas Universitarios** — *Encuentros con Semilleros, 2019* — [DOI](https://doi.org/10.15765/es.v1i1.1606)
+    **Atlas Interactivo de Programación en Python** — ISBN: 978-628-01-6444-1 — [DOI](https://doi.org/10.5281/zenodo.14497340)  
+    **Computación Cuántica y Nuevos Paradigmas** — *Innova Sena, 2024* — ISSN: 3028-6956  
+    **Prótesis Infantiles Avanzadas** — *REDIIS, 2024* — [DOI](https://doi.org/10.23850/rediis.v7i7.5577)  
+    **Congreso Internacional Virtual de Educación** — [DOI](https://doi.org/10.5281/zenodo.14396938)  
+    **Cinemática en Atletas Universitarios** — *Encuentros con Semilleros, 2019* — [DOI](https://doi.org/10.15765/es.v1i1.1606)
 
 
 ##  Tech Stack
