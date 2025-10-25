@@ -130,5 +130,5 @@ I'm passionate about technological innovation, social impact, and the profession
 ![Eduardo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardoleon9010&theme=react-dark&area=true)
 
 
-<p align="center"><em>“La ciencia de datos no solo descubre patrones en la información, sino también oportunidades para transformar realidades.”  
+<p align="center"><em> 
 “Data science not only finds patterns in information, but reveals opportunities to transform realities.”</em></p>
