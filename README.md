@@ -14,7 +14,7 @@
   <a href="https://indigo-capybara-479767.hostingersite.com/index.html">
     <img src="https://img.shields.io/static/v1?label=|&message=Sitio+Web&color=blue&style=plastic&logo=Google-Chrome&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/mbaeduleon/">
+  <a href="https://www.linkedin.com/in/phdeduleon/">
     <img src="https://img.shields.io/static/v1?label=|&message=LinkedIn&color=0A66C2&style=plastic&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://cienciatecnologiayfuturo.blogspot.com/p/acerca-de.html">
