@@ -11,7 +11,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://indigo-capybara-479767.hostingersite.com/index.html">
+  <a href="https://nexatech.org/index.html">
     <img src="https://img.shields.io/static/v1?label=|&message=Sitio+Web&color=blue&style=plastic&logo=Google-Chrome&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/phdeduleon/">
