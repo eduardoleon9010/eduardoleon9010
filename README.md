@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/phdeduleon/">
     <img src="https://img.shields.io/static/v1?label=|&message=LinkedIn&color=0A66C2&style=plastic&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://cienciatecnologiayfuturo.blogspot.com/p/acerca-de.html">
+  <a href="https://www.ciencia.nexatech.org/">
     <img src="https://img.shields.io/static/v1?label=|&message=Blog&color=orange&style=plastic&logo=blogger&logoColor=white"/>
   </a>
 </p>
