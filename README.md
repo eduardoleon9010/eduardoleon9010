@@ -25,14 +25,9 @@
 
 ## Sobre mí | About Me
 
-Soy Ingeniero Informático, con un MBA en Alta Dirección, y actualmente candidato a PhD en Investigación en Ingeniería.  
-I am a Computer Engineer with an MBA in Senior Management and currently a PhD candidate in Engineering Research
+University lecturer and researcher with expertise in artificial intelligence, data science, and applied analytics. Research interests include AI applications in business environments and bioinformatics, analytical modeling, and emerging computational technologies. I also have professional training in sports science, with interests in sports analytics and performance optimization through data-driven approaches.
 
-Cuento con experiencia docente en educación superior y me especializo en análisis de datos, aprendizaje automático y sistemas de inteligencia de negocios (BI).  
-I have experience teaching in higher education and specialize in data analysis, machine learning, and business intelligence systems (BI).
-
-Me apasiona la innovación tecnológica, el **impacto social** y el desarrollo profesional de mis estudiantes y colaboradores.  
-I'm passionate about technological innovation, social impact, and the professional development of students and colleagues.
+Docente universitario e investigador con experiencia en inteligencia artificial, ciencia de datos y analítica aplicada. Mis intereses de investigación incluyen la aplicación de la IA en entornos empresariales y bioinformática, el modelado analítico y las tecnologías computacionales emergentes. Cuento además con formación profesional en ciencias del deporte, con interés en analítica deportiva y optimización del rendimiento mediante enfoques basados en datos.
 
 
 ## Áreas de experiencia | Areas of Expertise
