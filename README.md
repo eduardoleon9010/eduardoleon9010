@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <a href="https://github.com/eduardoleon9010">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=Computer+Engineer+%7C+MBA+in+Senior+Management+%7C+PhD+(c);Data+Scientist+%7C+Educator+%7C+Social+Innovator;Leading+projects+with+Machine+Learning+and+EdTech;Impacting+lives+through+AI+and+Additive+Manufacturing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=Computer+Engineer+%7C+MBA+in+Senior+Management+%7C+PhD;Data+Scientist+%7C+Educator+%7C+Social+Innovator;Leading+projects+with+Machine+Learning+and+EdTech;Impacting+lives+through+AI+and+Additive+Manufacturing" alt="Typing SVG" />
   </a>
 </h1>
 
