@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://nexatech.org/index.html">
-    <img src="https://img.shields.io/static/v1?label=|&message=Sitio+Web&color=blue&style=plastic&logo=Google-Chrome&logoColor=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Sitio+Web&color=00C2CB&style=plastic&logo=Google-Chrome&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/phdleon">
     <img src="https://img.shields.io/static/v1?label=|&message=LinkedIn&color=0A66C2&style=plastic&logo=linkedin&logoColor=white"/>
@@ -20,10 +20,11 @@
   <a href="https://www.ciencia.nexatech.org/">
     <img src="https://img.shields.io/static/v1?label=|&message=Blog&color=orange&style=plastic&logo=blogger&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/uc?export=view&id=1l6BSCfeATXfbBrVyQ6yANB0Uh64CAELb">
-    <img src="https://img.shields.io/static/v1?label=|&message=Superprof&color=00C2CB&style=plastic&logo=book&logoColor=white"/>
+  <a href="TU_ENLACE_SUPERPROF">
+    <img src="https://img.shields.io/static/v1?label=|&message=Superprof&color=FA8072&style=plastic&logo=book&logoColor=white"/>
   </a>
 </p>
+
 
 
 
