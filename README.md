@@ -20,7 +20,11 @@
   <a href="https://www.ciencia.nexatech.org/">
     <img src="https://img.shields.io/static/v1?label=|&message=Blog&color=orange&style=plastic&logo=blogger&logoColor=white"/>
   </a>
+  <a href="https://drive.google.com/uc?export=view&id=1l6BSCfeATXfbBrVyQ6yANB0Uh64CAELb">
+    <img src="https://img.shields.io/static/v1?label=|&message=Superprof&color=00C2CB&style=plastic&logo=book&logoColor=white"/>
+  </a>
 </p>
+
 
 
 ## Sobre mí | About Me
