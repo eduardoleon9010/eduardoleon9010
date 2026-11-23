@@ -4,7 +4,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1DjyeoKc0GRE8WfFBWt8OR_mBe4Fl0_0j" width="100%" alt="Eduardo León | Computer Scientist and Engineering Researcher"/>
+  <img src="https://drive.google.com/uc?export=view&id=1DjyeoKc0GRE8WfFBWt8OR_mBe4Fl0_0j>
 </p>
 
 <h1 align="center">
