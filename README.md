@@ -4,7 +4,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1DjyeoKc0GRE8WfFBWt8OR_mBe4Fl0_0j>
+  <img src="https://drive.google.com/uc?export=view&id=1u_zz7V8SAaqTYzEpehagJbU1r_EpB0ef" alt="Banner de Eduardo León" width="100%">
 </p>
 
 <h1 align="center">
