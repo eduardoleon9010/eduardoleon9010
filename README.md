@@ -11,10 +11,6 @@
   Eduardo León
 </h1>
 
-<h3 align="center">
-  Computer Scientist · Engineering Researcher · University Educator
-</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=900&color=00BFFF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning+%26+Advanced+Analytics;Computational+Research+%26+Software+Engineering;Higher+Education+%26+Technological+Innovation" alt="Professional areas"/>
 </p>
